@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "last_checked": "2026-07-14T00:00:00Z",
+  "region": "Región Metropolitana, Chile",
+  "keywords": [
+    "agrícola", "agrónomo", "agronomía", "técnico agrícola",
+    "ingeniero agrónomo", "campo", "huerto", "viveros", "riego agrícola"
+  ],
+  "jobs": [
+    {
+      "id": "maclean-ingeniero-agronomo-tecnico-comercial",
+      "title": "Ingeniero Agrónomo (orientación técnico-comercial)",
+      "company": "Empresa internacional de tecnología agrícola (ej. Maclean Ltda / similares)",
+      "location": "Región Metropolitana",
+      "source": "Indeed Chile (agregador de búsqueda)",
+      "reference_url": "https://cl.indeed.com/q-agr%C3%B3nomo-l-regi%C3%B3n-metropolitana-empleos.html",
+      "first_seen": "2026-07-14"
+    },
+    {
+      "id": "fruticola-maria-pinto-ingeniero-agronomo-riego",
+      "title": "Ingeniero Agrónomo (o afín) - foco en riego, 1+ año de experiencia",
+      "company": "Empresa frutícola en María Pinto",
+      "location": "María Pinto, Región Metropolitana",
+      "source": "Indeed Chile (agregador de búsqueda)",
+      "reference_url": "https://cl.indeed.com/q-agr%C3%B3nomo-l-regi%C3%B3n-metropolitana-empleos.html",
+      "first_seen": "2026-07-14"
+    },
+    {
+      "id": "predio-60ha-nogales-ciruelos-encargado-campo",
+      "title": "Encargado de campo / Ingeniero Agrónomo - nogales (Chandler) y ciruelos (D'Agen)",
+      "company": "Predio agrícola de 60 hectáreas",
+      "location": "Región Metropolitana",
+      "source": "Indeed Chile (agregador de búsqueda)",
+      "reference_url": "https://cl.indeed.com/q-ingeniero-agronomo-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html",
+      "first_seen": "2026-07-14"
+    },
+    {
+      "id": "adecco-tecnico-agricola-las-condes",
+      "title": "Técnico Agrícola",
+      "company": "Adecco Chile",
+      "location": "Las Condes, Región Metropolitana",
+      "source": "Computrabajo",
+      "reference_url": "https://cl.computrabajo.com/trabajo-de-tecnico-agricola",
+      "first_seen": "2026-07-14"
+    },
+    {
+      "id": "santiago-macul-tecnico-agricola-500000",
+      "title": "Técnico Agrícola ($500.000 mensual aprox.)",
+      "company": "No especificada en el resumen de búsqueda",
+      "location": "Macul, Región Metropolitana",
+      "source": "Computrabajo",
+      "reference_url": "https://cl.computrabajo.com/trabajo-de-tecnico-agricola",
+      "first_seen": "2026-07-14"
+    },
+    {
+      "id": "san-bernardo-tecnico-bpa-nueces-cerezas-ciruelas",
+      "title": "Técnico agrícola con certificación BPA (nueces, cerezas, ciruelas)",
+      "company": "No especificada en el resumen de búsqueda",
+      "location": "San Bernardo, Región Metropolitana",
+      "source": "Computrabajo",
+      "reference_url": "https://cl.computrabajo.com/trabajo-de-tecnico-agricola",
+      "first_seen": "2026-07-14"
+    }
+  ],
+  "notes": "Baseline inicial generado el 2026-07-14. Estas entradas son un resumen de lo encontrado en la primera revisión (vía búsqueda web), no capturas exactas de avisos individuales, porque Indeed, Laborum, Computrabajo y LinkedIn bloquean el acceso directo (HTTP 403) a sus páginas de listado. Las próximas revisiones comparan contra esta lista para detectar ofertas nuevas."
+}
