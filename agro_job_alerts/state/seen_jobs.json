@@ -1,19 +1,23 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "last_checked": "2026-07-14T00:00:00Z",
   "region": "Región Metropolitana, Chile",
   "keywords": [
     "agrícola", "agrónomo", "agronomía", "técnico agrícola",
-    "ingeniero agrónomo", "campo", "huerto", "viveros", "riego agrícola"
+    "ingeniero agrónomo", "campo", "huerto", "viveros", "riego agrícola",
+    "práctica agrícola", "práctica agronomía", "práctica profesional agrónomo",
+    "practicante agrícola", "practicante agrónomo"
   ],
+  "link_policy": "Los enlaces guardados en 'search_url' apuntan a la página de búsqueda/listado del portal (filtrada por cargo o palabra clave), NO al aviso individual. Indeed, Laborum, Computrabajo, LinkedIn y Chiletrabajos bloquean el acceso automatizado (HTTP 403) incluso a avisos individuales indexados por buscadores, por lo que no es posible garantizar un permalink estable y funcional. Al abrir el enlace, busca el cargo/empresa indicados en el listado resultante; si ya no aparece, es probable que el aviso haya sido retirado o repaginado.",
   "jobs": [
     {
       "id": "maclean-ingeniero-agronomo-tecnico-comercial",
       "title": "Ingeniero Agrónomo (orientación técnico-comercial)",
       "company": "Empresa internacional de tecnología agrícola (ej. Maclean Ltda / similares)",
       "location": "Región Metropolitana",
+      "type": "empleo",
       "source": "Indeed Chile (agregador de búsqueda)",
-      "reference_url": "https://cl.indeed.com/q-agr%C3%B3nomo-l-regi%C3%B3n-metropolitana-empleos.html",
+      "search_url": "https://cl.indeed.com/q-agr%C3%B3nomo-l-regi%C3%B3n-metropolitana-empleos.html",
       "first_seen": "2026-07-14"
     },
     {
@@ -21,8 +25,9 @@
       "title": "Ingeniero Agrónomo (o afín) - foco en riego, 1+ año de experiencia",
       "company": "Empresa frutícola en María Pinto",
       "location": "María Pinto, Región Metropolitana",
+      "type": "empleo",
       "source": "Indeed Chile (agregador de búsqueda)",
-      "reference_url": "https://cl.indeed.com/q-agr%C3%B3nomo-l-regi%C3%B3n-metropolitana-empleos.html",
+      "search_url": "https://cl.indeed.com/q-agr%C3%B3nomo-l-regi%C3%B3n-metropolitana-empleos.html",
       "first_seen": "2026-07-14"
     },
     {
@@ -30,8 +35,9 @@
       "title": "Encargado de campo / Ingeniero Agrónomo - nogales (Chandler) y ciruelos (D'Agen)",
       "company": "Predio agrícola de 60 hectáreas",
       "location": "Región Metropolitana",
+      "type": "empleo",
       "source": "Indeed Chile (agregador de búsqueda)",
-      "reference_url": "https://cl.indeed.com/q-ingeniero-agronomo-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html",
+      "search_url": "https://cl.indeed.com/q-ingeniero-agronomo-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html",
       "first_seen": "2026-07-14"
     },
     {
@@ -39,8 +45,9 @@
       "title": "Técnico Agrícola",
       "company": "Adecco Chile",
       "location": "Las Condes, Región Metropolitana",
+      "type": "empleo",
       "source": "Computrabajo",
-      "reference_url": "https://cl.computrabajo.com/trabajo-de-tecnico-agricola",
+      "search_url": "https://cl.computrabajo.com/trabajo-de-tecnico-agricola",
       "first_seen": "2026-07-14"
     },
     {
@@ -48,8 +55,9 @@
       "title": "Técnico Agrícola ($500.000 mensual aprox.)",
       "company": "No especificada en el resumen de búsqueda",
       "location": "Macul, Región Metropolitana",
+      "type": "empleo",
       "source": "Computrabajo",
-      "reference_url": "https://cl.computrabajo.com/trabajo-de-tecnico-agricola",
+      "search_url": "https://cl.computrabajo.com/trabajo-de-tecnico-agricola",
       "first_seen": "2026-07-14"
     },
     {
@@ -57,10 +65,31 @@
       "title": "Técnico agrícola con certificación BPA (nueces, cerezas, ciruelas)",
       "company": "No especificada en el resumen de búsqueda",
       "location": "San Bernardo, Región Metropolitana",
+      "type": "empleo",
       "source": "Computrabajo",
-      "reference_url": "https://cl.computrabajo.com/trabajo-de-tecnico-agricola",
+      "search_url": "https://cl.computrabajo.com/trabajo-de-tecnico-agricola",
+      "first_seen": "2026-07-14"
+    },
+    {
+      "id": "chiletrabajos-practicante-agricola-medioambiental-talagante",
+      "title": "Practicante del Área Agrícola o Medioambiental",
+      "company": "No especificada en el resumen de búsqueda",
+      "location": "Talagante, Región Metropolitana",
+      "type": "práctica",
+      "source": "Chiletrabajos",
+      "search_url": "https://www.chiletrabajos.cl/trabajo/buscamos-practicante-del-rea-agr-cola-o-medioambiental-3846519",
+      "first_seen": "2026-07-14"
+    },
+    {
+      "id": "jooble-practica-agronomo-generico",
+      "title": "Práctica Ingeniero Agrónomo (varias empresas)",
+      "company": "Varias (agregador)",
+      "location": "Santiago, Región Metropolitana",
+      "type": "práctica",
+      "source": "Jooble",
+      "search_url": "https://cl.jooble.org/trabajo-practica-agronomo/Santiago",
       "first_seen": "2026-07-14"
     }
   ],
-  "notes": "Baseline inicial generado el 2026-07-14. Estas entradas son un resumen de lo encontrado en la primera revisión (vía búsqueda web), no capturas exactas de avisos individuales, porque Indeed, Laborum, Computrabajo y LinkedIn bloquean el acceso directo (HTTP 403) a sus páginas de listado. Las próximas revisiones comparan contra esta lista para detectar ofertas nuevas."
+  "notes": "Baseline inicial generado el 2026-07-14, ampliado el mismo día para incluir prácticas profesionales/practicantes. Estas entradas son un resumen de lo encontrado vía búsqueda web, no capturas exactas de avisos individuales, porque Indeed, Laborum, Computrabajo, LinkedIn y Chiletrabajos bloquean el acceso directo (HTTP 403) tanto a páginas de listado como a avisos individuales. Ver 'link_policy' sobre el alcance real de 'search_url'. Las próximas revisiones comparan contra esta lista para detectar ofertas y prácticas nuevas."
 }

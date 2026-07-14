@@ -1,8 +1,8 @@
 # Alertas de empleo agrícola/agronomía — Región Metropolitana
 
-Automatización que revisa periódicamente ofertas de trabajo relacionadas al
-área agrícola y agronómica en la Región Metropolitana (Chile) y avisa cuando
-aparece una publicación nueva.
+Automatización que revisa periódicamente ofertas de trabajo **y prácticas
+profesionales** relacionadas al área agrícola y agronómica en la Región
+Metropolitana (Chile) y avisa cuando aparece una publicación nueva.
 
 ## Cómo funciona
 
@@ -26,18 +26,25 @@ de Claude Code Remote.
 
 ## Limitación conocida
 
-Indeed, Laborum, Computrabajo y LinkedIn bloquean el acceso directo a sus
-páginas (HTTP 403 ante scraping automatizado), por lo que la detección se
-basa en resultados de búsqueda web (snippets), no en lectura directa y
-exhaustiva de cada aviso individual. Esto significa:
+Indeed, Laborum, Computrabajo, LinkedIn y Chiletrabajos bloquean el acceso
+directo automatizado (HTTP 403), incluso a avisos individuales indexados por
+buscadores. Por eso:
 
 - Es posible que no se capturen absolutamente todas las publicaciones nuevas
   apenas se publican.
 - La deduplicación se hace por combinación de cargo + empresa + ubicación
-  (no por URL única del aviso, que en varios casos no es accesible).
+  (no por URL única del aviso).
+- **Los enlaces que se entregan (`search_url`) apuntan a la página de
+  búsqueda/listado filtrada del portal, no a un permalink del aviso
+  puntual.** Al hacer clic, el enlace sí carga, pero muestra el listado de
+  resultados donde debes ubicar el cargo/empresa mencionados — no redirige
+  directo al aviso porque esos portales no exponen permalinks accesibles de
+  forma automatizada. Si el cargo ya no aparece en el listado, probablemente
+  fue retirado o repaginado.
 
-Para máxima cobertura, se recomienda complementar esto con las alertas
-nativas de Indeed/LinkedIn/Computrabajo/Laborum (ellos sí tienen acceso
+Para máxima cobertura, y para llegar directo al aviso puntual, se recomienda
+complementar esto con las alertas nativas de
+Indeed/LinkedIn/Computrabajo/Laborum/Chiletrabajos (ellos sí tienen acceso
 directo a sus propias bases de datos).
 
 ## Envío de correo
