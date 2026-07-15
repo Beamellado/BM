@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_checked": "2026-07-14T06:17:00Z",
+  "last_checked": "2026-07-14T12:17:00Z",
   "region": "Región Metropolitana, Chile",
   "keywords": [
     "agrícola", "agrónomo", "agronomía", "técnico agrícola",
@@ -128,6 +128,46 @@
       "type": "empleo",
       "source": "Indeed Chile (agregador de búsqueda)",
       "search_url": "https://cl.indeed.com/q-trabajo-en-vivero-empleos.html",
+      "first_seen": "2026-07-14"
+    },
+    {
+      "id": "ingeniero-agronomo-analista-datos-melipilla",
+      "title": "Ingeniero Agrónomo - Analista de Datos",
+      "company": "No especificada en el resumen de búsqueda",
+      "location": "Melipilla, Región Metropolitana",
+      "type": "empleo",
+      "source": "Indeed Chile (agregador de búsqueda)",
+      "search_url": "https://cl.indeed.com/q-agr%C3%B3nomo-l-regi%C3%B3n-metropolitana-empleos.html",
+      "first_seen": "2026-07-14"
+    },
+    {
+      "id": "ingeniero-agronomo-packing-fruta-santiago-centro",
+      "title": "Ingeniero Agrónomo con experiencia en packing de fruta (oficina, L-J 8:30-18:00, V 8:30-16:00)",
+      "company": "No especificada en el resumen de búsqueda",
+      "location": "Santiago Centro, Región Metropolitana",
+      "type": "empleo",
+      "source": "Indeed Chile (agregador de búsqueda)",
+      "search_url": "https://cl.indeed.com/q-ingeniero-agronomo-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html",
+      "first_seen": "2026-07-14"
+    },
+    {
+      "id": "tecnico-agronomo-forestal-bilingue-empresa-japonesa-providencia",
+      "title": "Técnico Agrónomo o Forestal bilingüe (desarrollo de negocios)",
+      "company": "Empresa japonesa",
+      "location": "Providencia, Región Metropolitana",
+      "type": "empleo",
+      "source": "Indeed Chile (agregador de búsqueda)",
+      "search_url": "https://cl.indeed.com/q-t%C3%A9cnico-agricola-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html",
+      "first_seen": "2026-07-14"
+    },
+    {
+      "id": "viverista-buin",
+      "title": "Viverista (embolsado, acondicionamiento, pedidos, plantación, riego, deshierbe)",
+      "company": "No especificada en el resumen de búsqueda",
+      "location": "Buin, Región Metropolitana",
+      "type": "empleo",
+      "source": "Jooble",
+      "search_url": "https://cl.jooble.org/trabajo-jardiner%C3%ADa-viveros/Santiago",
       "first_seen": "2026-07-14"
     }
   ],
