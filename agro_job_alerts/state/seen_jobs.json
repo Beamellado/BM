@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_checked": "2026-07-14T12:17:00Z",
+  "last_checked": "2026-07-14T18:17:00Z",
   "region": "Región Metropolitana, Chile",
   "keywords": [
     "agrícola", "agrónomo", "agronomía", "técnico agrícola",
@@ -168,6 +168,46 @@
       "type": "empleo",
       "source": "Jooble",
       "search_url": "https://cl.jooble.org/trabajo-jardiner%C3%ADa-viveros/Santiago",
+      "first_seen": "2026-07-14"
+    },
+    {
+      "id": "asesor-ingeniero-agronomo-vitivinicola-providencia",
+      "title": "Asesor(a) Ingeniero(a) Agrónomo(a) - Especialidad Vitivinícola (híbrido, con visitas a terreno)",
+      "company": "MiGuru",
+      "location": "Providencia, Región Metropolitana",
+      "type": "empleo",
+      "source": "MiGuru",
+      "search_url": "https://miguru.ai/offers/dkcspyhybsmf-ydf43ubl",
+      "first_seen": "2026-07-14"
+    },
+    {
+      "id": "practica-agronomia-jardin-sustentable-quilicura",
+      "title": "Práctica de Agronomía - apoyo a planificación de jardín sustentable (recomendaciones de cultivo/especies, riego, iniciativas ambientales)",
+      "company": "No especificada en el resumen de búsqueda",
+      "location": "Quilicura, Región Metropolitana",
+      "type": "práctica",
+      "source": "Búsqueda web (agregador)",
+      "search_url": "https://empleo.mitula.cl/empleo/practica-agronomia",
+      "first_seen": "2026-07-14"
+    },
+    {
+      "id": "practica-zenlab-microgreens-providencia",
+      "title": "Práctica en ZenLab - producción de hongos gourmet, microgreens y adaptógenos funcionales",
+      "company": "ZenLab",
+      "location": "Providencia (cerca de metro Salvador), Región Metropolitana",
+      "type": "práctica",
+      "source": "Búsqueda web (agregador)",
+      "search_url": "https://empleo.mitula.cl/empleo/practica-agronomia",
+      "first_seen": "2026-07-14"
+    },
+    {
+      "id": "practicante-agronomia-melipilla",
+      "title": "Practicante Agronomía",
+      "company": "No especificada en el resumen de búsqueda",
+      "location": "Melipilla, Región Metropolitana",
+      "type": "práctica",
+      "source": "Chiletrabajos",
+      "search_url": "https://www.chiletrabajos.cl/trabajo/practicante-agronomia-melipilla-2579427",
       "first_seen": "2026-07-14"
     }
   ],
