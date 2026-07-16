@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_checked": "2026-07-14T18:17:00Z",
+  "last_checked": "2026-07-15T00:17:00Z",
   "region": "Región Metropolitana, Chile",
   "keywords": [
     "agrícola", "agrónomo", "agronomía", "técnico agrícola",
@@ -183,7 +183,7 @@
     {
       "id": "practica-agronomia-jardin-sustentable-quilicura",
       "title": "Práctica de Agronomía - apoyo a planificación de jardín sustentable (recomendaciones de cultivo/especies, riego, iniciativas ambientales)",
-      "company": "No especificada en el resumen de búsqueda",
+      "company": "Hospitalia Green",
       "location": "Quilicura, Región Metropolitana",
       "type": "práctica",
       "source": "Búsqueda web (agregador)",
@@ -209,6 +209,16 @@
       "source": "Chiletrabajos",
       "search_url": "https://www.chiletrabajos.cl/trabajo/practicante-agronomia-melipilla-2579427",
       "first_seen": "2026-07-14"
+    },
+    {
+      "id": "administrador-huerto-camino-a-roma-kiwis-uva-manzanas-cerezas",
+      "title": "Administrador de Huerto/Predio - operaciones productivas de kiwis, vides, manzanas y cerezas",
+      "company": "No especificada en el resumen de búsqueda",
+      "location": "Sector Camino a Roma, Región Metropolitana",
+      "type": "empleo",
+      "source": "Indeed Chile (agregador de búsqueda)",
+      "search_url": "https://cl.indeed.com/q-trabajador-agricola-empleos.html",
+      "first_seen": "2026-07-15"
     }
   ],
   "notes": "Baseline inicial generado el 2026-07-14, ampliado el mismo día para incluir prácticas profesionales/practicantes. Estas entradas son un resumen de lo encontrado vía búsqueda web, no capturas exactas de avisos individuales, porque Indeed, Laborum, Computrabajo, LinkedIn y Chiletrabajos bloquean el acceso directo (HTTP 403) tanto a páginas de listado como a avisos individuales. Ver 'link_policy' sobre el alcance real de 'search_url'. Las próximas revisiones comparan contra esta lista para detectar ofertas y prácticas nuevas."
