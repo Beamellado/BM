@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_checked": "2026-07-16T00:17:00Z",
+  "last_checked": "2026-07-16T06:17:00Z",
   "region": "Región Metropolitana, Chile",
   "keywords": [
     "agrícola", "agrónomo", "agronomía", "técnico agrícola",
@@ -308,6 +308,16 @@
       "type": "práctica",
       "source": "BNE - Portal Agro",
       "search_url": "https://www.bne.cl/feria-laboral/portalagro/ofertas/detalleOferta?idOferta=1221817",
+      "first_seen": "2026-07-16"
+    },
+    {
+      "id": "administrativo-agricola-cerezas-hortalizas-maiz-alfalfa-semillas",
+      "title": "Administrativo/a Agrícola - gestión operacional y contable del predio (cultivo de cerezas, hortalizas, maíz, alfalfa y semillas)",
+      "company": "No especificada en el resumen de búsqueda",
+      "location": "Región Metropolitana",
+      "type": "empleo",
+      "source": "Búsqueda web (agregador)",
+      "search_url": "https://cl.indeed.com/q-agr%C3%B3nomo-l-regi%C3%B3n-metropolitana-empleos.html",
       "first_seen": "2026-07-16"
     }
   ],
