@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_checked": "2026-07-15T12:17:00Z",
+  "last_checked": "2026-07-15T18:17:00Z",
   "region": "Región Metropolitana, Chile",
   "keywords": [
     "agrícola", "agrónomo", "agronomía", "técnico agrícola",
@@ -268,6 +268,16 @@
       "type": "empleo",
       "source": "Búsqueda web (agregador)",
       "search_url": "https://cl.indeed.com/q-agr%C3%B3nomo-l-regi%C3%B3n-metropolitana-empleos.html",
+      "first_seen": "2026-07-15"
+    },
+    {
+      "id": "practica-agronomo-pecuario-vlahovic-lampa",
+      "title": "Práctica Profesional Área Agrónomo Pecuario (inseminación artificial, producción de conejos, faenado, embalaje, gestión de stock)",
+      "company": "Comercializadora Agrícola Pecuaria Vlahovic Limitada",
+      "location": "Lampa, Región Metropolitana",
+      "type": "práctica",
+      "source": "Emplea INACAP",
+      "search_url": "https://emplea.inacap.cl/trabajar-en-comercializadora-agricola-pecuaria-vlahovic-limitada/trabajos/flssur-practica-profesional-area-agronomo-pecuario/602542",
       "first_seen": "2026-07-15"
     }
   ],
