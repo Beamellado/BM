@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_checked": "2026-07-15T00:17:00Z",
+  "last_checked": "2026-07-15T06:17:00Z",
   "region": "Región Metropolitana, Chile",
   "keywords": [
     "agrícola", "agrónomo", "agronomía", "técnico agrícola",
@@ -218,6 +218,26 @@
       "type": "empleo",
       "source": "Indeed Chile (agregador de búsqueda)",
       "search_url": "https://cl.indeed.com/q-trabajador-agricola-empleos.html",
+      "first_seen": "2026-07-15"
+    },
+    {
+      "id": "ingeniero-agronomo-riego-netafim",
+      "title": "Ingeniero(a) Agrónomo(a) con 3 a 5 años de experiencia en riego",
+      "company": "Netafim",
+      "location": "Región Metropolitana",
+      "type": "empleo",
+      "source": "Búsqueda web (agregador)",
+      "search_url": "https://cl.indeed.com/q-ingeniero-agronomo-empleos.html",
+      "first_seen": "2026-07-15"
+    },
+    {
+      "id": "administrador-campo-hortalizas-lampa",
+      "title": "Administrador de Campo - dirige cuadrilla, hortalizas, riego tecnificado, Norma BPA (horario flexible, residir cerca de Lampa)",
+      "company": "No especificada en el resumen de búsqueda",
+      "location": "Cercanías de Lampa, Región Metropolitana",
+      "type": "empleo",
+      "source": "Indeed Chile (agregador de búsqueda)",
+      "search_url": "https://cl.indeed.com/q-tecnico-agricola-l-regi%C3%B3n-metropolitana-empleos.html",
       "first_seen": "2026-07-15"
     }
   ],
