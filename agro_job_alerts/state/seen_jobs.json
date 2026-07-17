@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_checked": "2026-07-15T18:17:00Z",
+  "last_checked": "2026-07-16T00:17:00Z",
   "region": "Región Metropolitana, Chile",
   "keywords": [
     "agrícola", "agrónomo", "agronomía", "técnico agrícola",
@@ -279,6 +279,36 @@
       "source": "Emplea INACAP",
       "search_url": "https://emplea.inacap.cl/trabajar-en-comercializadora-agricola-pecuaria-vlahovic-limitada/trabajos/flssur-practica-profesional-area-agronomo-pecuario/602542",
       "first_seen": "2026-07-15"
+    },
+    {
+      "id": "practicante-estacion-experimental-semillera-buin",
+      "title": "Practicante para estación experimental de empresa semillera",
+      "company": "No especificada en el resumen de búsqueda (empresa semillera)",
+      "location": "Buin, Región Metropolitana",
+      "type": "práctica",
+      "source": "Búsqueda web (agregador)",
+      "search_url": "https://cl.jooble.org/trabajo-practica-agronomo",
+      "first_seen": "2026-07-16"
+    },
+    {
+      "id": "practica-agricola-santa-marta-colina",
+      "title": "Práctica profesional área agrícola",
+      "company": "Agrícola Santa Marta",
+      "location": "Colina, Región Metropolitana",
+      "type": "práctica",
+      "source": "Búsqueda web (agregador)",
+      "search_url": "https://cl.indeed.com/q-pr%C3%A1ctica-agr%C3%ADcola-empleos.html",
+      "first_seen": "2026-07-16"
+    },
+    {
+      "id": "bne-practica-profesional-estudiantes-agronomia-1221817",
+      "title": "Práctica profesional para estudiantes de Agronomía",
+      "company": "No especificada en el resumen de búsqueda",
+      "location": "Región Metropolitana (según contexto de búsqueda)",
+      "type": "práctica",
+      "source": "BNE - Portal Agro",
+      "search_url": "https://www.bne.cl/feria-laboral/portalagro/ofertas/detalleOferta?idOferta=1221817",
+      "first_seen": "2026-07-16"
     }
   ],
   "notes": "Baseline inicial generado el 2026-07-14, ampliado el mismo día para incluir prácticas profesionales/practicantes. Estas entradas son un resumen de lo encontrado vía búsqueda web, no capturas exactas de avisos individuales, porque Indeed, Laborum, Computrabajo, LinkedIn y Chiletrabajos bloquean el acceso directo (HTTP 403) tanto a páginas de listado como a avisos individuales. Ver 'link_policy' sobre el alcance real de 'search_url'. Las próximas revisiones comparan contra esta lista para detectar ofertas y prácticas nuevas."
