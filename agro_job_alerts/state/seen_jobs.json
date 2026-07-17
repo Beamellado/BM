@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_checked": "2026-07-15T06:17:00Z",
+  "last_checked": "2026-07-15T12:17:00Z",
   "region": "Región Metropolitana, Chile",
   "keywords": [
     "agrícola", "agrónomo", "agronomía", "técnico agrícola",
@@ -238,6 +238,36 @@
       "type": "empleo",
       "source": "Indeed Chile (agregador de búsqueda)",
       "search_url": "https://cl.indeed.com/q-tecnico-agricola-l-regi%C3%B3n-metropolitana-empleos.html",
+      "first_seen": "2026-07-15"
+    },
+    {
+      "id": "chiletrabajos-ingeniero-agronomo-tecnico-agricola-santiago-3780434",
+      "title": "Ingeniero Agrónomo o Técnico Agrícola Titulado",
+      "company": "No especificada en el resumen de búsqueda",
+      "location": "Santiago, Región Metropolitana",
+      "type": "empleo",
+      "source": "Chiletrabajos",
+      "search_url": "https://www.chiletrabajos.cl/trabajo/3780434",
+      "first_seen": "2026-07-15"
+    },
+    {
+      "id": "chiletrabajos-ingeniero-agronomo-riego-melipilla",
+      "title": "Ingeniero Agrónomo (o conocimiento equivalente) para riego",
+      "company": "No especificada en el resumen de búsqueda",
+      "location": "Melipilla, Región Metropolitana",
+      "type": "empleo",
+      "source": "Chiletrabajos",
+      "search_url": "https://www.chiletrabajos.cl/trabajo/se-busca-ingeniero-agr-nomo-con-conocimiento-equivalente-para-riego-3480480",
+      "first_seen": "2026-07-15"
+    },
+    {
+      "id": "inia-innovacion-id-la-pintana",
+      "title": "Posiciones de innovación e I+D agropecuaria",
+      "company": "INIA (Instituto de Investigaciones Agropecuarias)",
+      "location": "La Pintana, Región Metropolitana",
+      "type": "empleo",
+      "source": "Búsqueda web (agregador)",
+      "search_url": "https://cl.indeed.com/q-agr%C3%B3nomo-l-regi%C3%B3n-metropolitana-empleos.html",
       "first_seen": "2026-07-15"
     }
   ],
