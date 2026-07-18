@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_checked": "2026-07-17T00:17:00Z",
+  "last_checked": "2026-07-17T06:17:00Z",
   "region": "Región Metropolitana, Chile",
   "keywords": [
     "agrícola", "agrónomo", "agronomía", "técnico agrícola",
@@ -398,6 +398,36 @@
       "type": "empleo",
       "source": "Búsqueda web (agregador)",
       "search_url": "https://cl.indeed.com/q-tecnico-agricola-l-regi%C3%B3n-metropolitana-empleos.html",
+      "first_seen": "2026-07-17"
+    },
+    {
+      "id": "especialista-registros-plaguicidas-santiago",
+      "title": "Especialista de Registros (Plaguicidas)",
+      "company": "No especificada en el resumen de búsqueda",
+      "location": "Santiago, Región Metropolitana",
+      "type": "empleo",
+      "source": "Búsqueda web (agregador)",
+      "search_url": "https://cl.indeed.com/q-tecnico-agricola-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html",
+      "first_seen": "2026-07-17"
+    },
+    {
+      "id": "practica-exportadora-huber-paine-cerezas",
+      "title": "Práctica Profesional Agrícola - Administración (control de calidad en packing de cerezas, ~1 mes, incluye alojamiento)",
+      "company": "Exportadora Huber",
+      "location": "Paine, Región Metropolitana",
+      "type": "práctica",
+      "source": "Emplea INACAP",
+      "search_url": "https://emplea.inacap.cl/trabajar-en-exportadora-huber/trabajos/practica-profesional-agricola-administracion-sociedad-exportadora-huber-limitada/637858",
+      "first_seen": "2026-07-17"
+    },
+    {
+      "id": "agricola-tu-huerta-lampa",
+      "title": "Trabajador(a) Agrícola - huertas, plantaciones, invernaderos, viveros y jardines (jornada de 6 días)",
+      "company": "Agrícola Tu Huerta",
+      "location": "Lampa, Región Metropolitana",
+      "type": "empleo",
+      "source": "Búsqueda web (agregador)",
+      "search_url": "https://cl.indeed.com/q-agricola-empleos.html",
       "first_seen": "2026-07-17"
     }
   ],
