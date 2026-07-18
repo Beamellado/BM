@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_checked": "2026-07-16T18:17:00Z",
+  "last_checked": "2026-07-17T00:17:00Z",
   "region": "Región Metropolitana, Chile",
   "keywords": [
     "agrícola", "agrónomo", "agronomía", "técnico agrícola",
@@ -389,6 +389,16 @@
       "source": "Búsqueda web (agregador)",
       "search_url": "https://cl.indeed.com/q-pr%C3%A1ctica-agr%C3%ADcola-empleos.html",
       "first_seen": "2026-07-16"
+    },
+    {
+      "id": "tecnico-agricola-aplicador-pesticidas-sag-sector-industrial",
+      "title": "Técnico Agrícola con credencial de aplicador de pesticidas (SAG), sector industrial",
+      "company": "No especificada en el resumen de búsqueda",
+      "location": "Región Metropolitana",
+      "type": "empleo",
+      "source": "Búsqueda web (agregador)",
+      "search_url": "https://cl.indeed.com/q-tecnico-agricola-l-regi%C3%B3n-metropolitana-empleos.html",
+      "first_seen": "2026-07-17"
     }
   ],
   "notes": "Baseline inicial generado el 2026-07-14, ampliado el mismo día para incluir prácticas profesionales/practicantes. Estas entradas son un resumen de lo encontrado vía búsqueda web, no capturas exactas de avisos individuales, porque Indeed, Laborum, Computrabajo, LinkedIn y Chiletrabajos bloquean el acceso directo (HTTP 403) tanto a páginas de listado como a avisos individuales. Ver 'link_policy' sobre el alcance real de 'search_url'. Las próximas revisiones comparan contra esta lista para detectar ofertas y prácticas nuevas."
