@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_checked": "2026-07-16T12:17:00Z",
+  "last_checked": "2026-07-16T18:17:00Z",
   "region": "Región Metropolitana, Chile",
   "keywords": [
     "agrícola", "agrónomo", "agronomía", "técnico agrícola",
@@ -348,6 +348,46 @@
       "type": "empleo",
       "source": "Búsqueda web (agregador)",
       "search_url": "https://cl.indeed.com/q-agricola-empleos.html",
+      "first_seen": "2026-07-16"
+    },
+    {
+      "id": "gestion-global-personas-agronomo-cerezas-almendras-santiago",
+      "title": "Ingeniero(a) Agrónomo(a) con experiencia en cerezas y almendras",
+      "company": "Gestión Global Personas",
+      "location": "Santiago, Región Metropolitana",
+      "type": "empleo",
+      "source": "Búsqueda web (agregador)",
+      "search_url": "https://cl.indeed.com/q-agr%C3%B3nomo-l-regi%C3%B3n-metropolitana-empleos.html",
+      "first_seen": "2026-07-16"
+    },
+    {
+      "id": "tecnico-administrador-agricola-nogales-alhue-melipilla",
+      "title": "Técnico/Administrador Agrícola - predio de nogales (residencia L-V, alojamiento provisto)",
+      "company": "No especificada en el resumen de búsqueda",
+      "location": "Alhué, Melipilla, Región Metropolitana",
+      "type": "empleo",
+      "source": "Búsqueda web (agregador)",
+      "search_url": "https://cl.indeed.com/q-tecnico-agricola-l-regi%C3%B3n-metropolitana-empleos.html",
+      "first_seen": "2026-07-16"
+    },
+    {
+      "id": "inia-practica-mejoramiento-genetico-alfalfa-la-pintana",
+      "title": "Práctica - mejoramiento genético de alfalfa (variedades de alto rendimiento y resilientes al clima)",
+      "company": "INIA (Instituto de Investigaciones Agropecuarias)",
+      "location": "La Pintana, Región Metropolitana",
+      "type": "práctica",
+      "source": "Búsqueda web (agregador)",
+      "search_url": "https://cl.indeed.com/q-pr%C3%A1ctica-agr%C3%ADcola-empleos.html",
+      "first_seen": "2026-07-16"
+    },
+    {
+      "id": "practica-tecnico-agricola-talagante-plantacion-poda-talleres",
+      "title": "Práctica técnico agrícola - plantación, poda, germinación de semillas, coordinación de talleres (inicio inmediato)",
+      "company": "No especificada en el resumen de búsqueda",
+      "location": "Talagante, Región Metropolitana",
+      "type": "práctica",
+      "source": "Búsqueda web (agregador)",
+      "search_url": "https://cl.indeed.com/q-pr%C3%A1ctica-agr%C3%ADcola-empleos.html",
       "first_seen": "2026-07-16"
     }
   ],
