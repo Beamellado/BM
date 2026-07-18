@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_checked": "2026-07-17T06:17:00Z",
+  "last_checked": "2026-07-17T12:17:00Z",
   "region": "Región Metropolitana, Chile",
   "keywords": [
     "agrícola", "agrónomo", "agronomía", "técnico agrícola",
@@ -428,6 +428,16 @@
       "type": "empleo",
       "source": "Búsqueda web (agregador)",
       "search_url": "https://cl.indeed.com/q-agricola-empleos.html",
+      "first_seen": "2026-07-17"
+    },
+    {
+      "id": "ariztia-ingeniero-supervisor-agricola-melipilla",
+      "title": "Ingeniero(a) - supervisor agrícola",
+      "company": "Ariztía",
+      "location": "Melipilla, Región Metropolitana",
+      "type": "empleo",
+      "source": "Búsqueda web (agregador)",
+      "search_url": "https://cl.indeed.com/q-agr%C3%B3nomo-l-regi%C3%B3n-metropolitana-empleos.html",
       "first_seen": "2026-07-17"
     }
   ],
