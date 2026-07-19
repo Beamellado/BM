@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_checked": "2026-07-18T06:17:00Z",
+  "last_checked": "2026-07-18T12:17:00Z",
   "region": "Región Metropolitana, Chile",
   "keywords": [
     "agrícola", "agrónomo", "agronomía", "técnico agrícola",
@@ -448,6 +448,16 @@
       "type": "empleo",
       "source": "LinkedIn (agregador de búsqueda)",
       "search_url": "https://cl.indeed.com/q-agr%C3%B3nomo-l-regi%C3%B3n-metropolitana-empleos.html",
+      "first_seen": "2026-07-18"
+    },
+    {
+      "id": "ns-agro-las-condes",
+      "title": "Vacante en empresa de insumos, financiamiento y asesoría técnica agrícola (cargo no especificado en el resumen)",
+      "company": "NS Agro",
+      "location": "Las Condes, Región Metropolitana",
+      "type": "empleo",
+      "source": "Búsqueda web (agregador)",
+      "search_url": "https://cl.indeed.com/q-tecnico-agricola-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html",
       "first_seen": "2026-07-18"
     }
   ],
