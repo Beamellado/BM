@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_checked": "2026-07-19T06:17:00Z",
+  "last_checked": "2026-07-19T12:17:00Z",
   "region": "Región Metropolitana, Chile",
   "keywords": [
     "agrícola", "agrónomo", "agronomía", "técnico agrícola",
@@ -465,6 +465,26 @@
       "title": "Especialista de vivero",
       "company": "Construcciones y Servicios Siglo Verde S.A.",
       "location": "Providencia, Región Metropolitana",
+      "type": "empleo",
+      "source": "Búsqueda web (agregador)",
+      "search_url": "https://cl.indeed.com/q-vivero-empleos.html",
+      "first_seen": "2026-07-19"
+    },
+    {
+      "id": "planta-frio-frutas-jefe-planta-ingeniero-agronomo",
+      "title": "Ingeniero(a) Agrónomo(a) - Jefe de Planta (frío para frutas, inspección SAG, despacho de contenedores)",
+      "company": "No especificada en el resumen de búsqueda (planta de frío de frutas)",
+      "location": "Región Metropolitana",
+      "type": "empleo",
+      "source": "Búsqueda web (agregador)",
+      "search_url": "https://cl.indeed.com/q-agr%C3%B3nomo-l-regi%C3%B3n-metropolitana-empleos.html",
+      "first_seen": "2026-07-19"
+    },
+    {
+      "id": "solfrut-vacante-rm",
+      "title": "Vacante en empresa agrícola (cargo no especificado en el resumen)",
+      "company": "Solfrut",
+      "location": "Región Metropolitana",
       "type": "empleo",
       "source": "Búsqueda web (agregador)",
       "search_url": "https://cl.indeed.com/q-vivero-empleos.html",
