@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_checked": "2026-07-19T12:17:00Z",
+  "last_checked": "2026-07-19T18:17:00Z",
   "region": "Región Metropolitana, Chile",
   "keywords": [
     "agrícola", "agrónomo", "agronomía", "técnico agrícola",
@@ -488,6 +488,36 @@
       "type": "empleo",
       "source": "Búsqueda web (agregador)",
       "search_url": "https://cl.indeed.com/q-vivero-empleos.html",
+      "first_seen": "2026-07-19"
+    },
+    {
+      "id": "ayudante-administrador-huerto-frutal-lampa-casa",
+      "title": "Ayudante de administrador en huerto frutal (con opción de casa)",
+      "company": "No especificada en el resumen de búsqueda",
+      "location": "Lampa, Región Metropolitana",
+      "type": "empleo",
+      "source": "Búsqueda web (agregador)",
+      "search_url": "https://cl.indeed.com/q-vivero-empleos.html",
+      "first_seen": "2026-07-19"
+    },
+    {
+      "id": "tecnico-agricola-fiscalizacion-bpa-agroquimicos-riego",
+      "title": "Técnico Agrícola jornada completa - control y fiscalización de BPA, verificación de instalaciones de agroquímicos y casetas de riego",
+      "company": "No especificada en el resumen de búsqueda",
+      "location": "Región Metropolitana",
+      "type": "empleo",
+      "source": "Búsqueda web (agregador)",
+      "search_url": "https://cl.indeed.com/q-tecnico-agricola-l-regi%C3%B3n-metropolitana-empleos.html",
+      "first_seen": "2026-07-19"
+    },
+    {
+      "id": "casas-de-la-capilla-agricola-trabajador-buin",
+      "title": "Trabajador Agrícola",
+      "company": "Casas de La Capilla Agrícola",
+      "location": "Buin, Región Metropolitana",
+      "type": "empleo",
+      "source": "Búsqueda web (agregador)",
+      "search_url": "https://cl.trabajo.org/oferta-2254-a568c30425be5e0073dbfb740d8dc4b5",
       "first_seen": "2026-07-19"
     }
   ],
