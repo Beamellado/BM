@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_checked": "2026-07-19T18:17:00Z",
+  "last_checked": "2026-07-20T00:17:00Z",
   "region": "Región Metropolitana, Chile",
   "keywords": [
     "agrícola", "agrónomo", "agronomía", "técnico agrícola",
@@ -519,6 +519,16 @@
       "source": "Búsqueda web (agregador)",
       "search_url": "https://cl.trabajo.org/oferta-2254-a568c30425be5e0073dbfb740d8dc4b5",
       "first_seen": "2026-07-19"
+    },
+    {
+      "id": "miguru-encargado-capacitaciones-agricolas",
+      "title": "Encargado(a) de Capacitaciones Agrícolas",
+      "company": "No especificada en el resumen de búsqueda",
+      "location": "Región Metropolitana (comuna no especificada en el resumen)",
+      "type": "empleo",
+      "source": "MiGuru",
+      "search_url": "https://miguru.ai/offers/yjuij5e4k1_gdvg27ecaa",
+      "first_seen": "2026-07-20"
     }
   ],
   "notes": "Baseline inicial generado el 2026-07-14, ampliado el mismo día para incluir prácticas profesionales/practicantes. Estas entradas son un resumen de lo encontrado vía búsqueda web, no capturas exactas de avisos individuales, porque Indeed, Laborum, Computrabajo, LinkedIn y Chiletrabajos bloquean el acceso directo (HTTP 403) tanto a páginas de listado como a avisos individuales. Ver 'link_policy' sobre el alcance real de 'search_url'. Las próximas revisiones comparan contra esta lista para detectar ofertas y prácticas nuevas."
