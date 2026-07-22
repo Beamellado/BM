@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_checked": "2026-07-20T12:17:00Z",
+  "last_checked": "2026-07-20T18:17:00Z",
   "region": "Región Metropolitana, Chile",
   "keywords": [
     "agrícola", "agrónomo", "agronomía", "técnico agrícola",
@@ -528,6 +528,56 @@
       "type": "empleo",
       "source": "MiGuru",
       "search_url": "https://miguru.ai/offers/yjuij5e4k1_gdvg27ecaa",
+      "first_seen": "2026-07-20"
+    },
+    {
+      "id": "asesor-tecnico-comercial-agricola-rm",
+      "title": "Asesor(a) Técnico-Comercial Agrícola (trabajo directo con agricultores en agricultura sostenible)",
+      "company": "No especificada en el resumen de búsqueda",
+      "location": "Región Metropolitana (y otras regiones)",
+      "type": "empleo",
+      "source": "Búsqueda web (agregador)",
+      "search_url": "https://cl.indeed.com/q-tecnico-agricola-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html",
+      "first_seen": "2026-07-20"
+    },
+    {
+      "id": "consultor-junior-proyectos-agricolas-providencia",
+      "title": "Consultor(a) Junior de Proyectos Agrícolas",
+      "company": "No especificada en el resumen de búsqueda",
+      "location": "Providencia, Región Metropolitana",
+      "type": "empleo",
+      "source": "LinkedIn (agregador de búsqueda)",
+      "search_url": "https://cl.indeed.com/q-tecnico-agricola-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html",
+      "first_seen": "2026-07-20"
+    },
+    {
+      "id": "syngenta-coordinador-agricultura-digital-santiago",
+      "title": "Coordinador(a) de Agricultura Digital",
+      "company": "Syngenta",
+      "location": "Santiago, Región Metropolitana",
+      "type": "empleo",
+      "source": "Búsqueda web (agregador)",
+      "search_url": "https://cl.indeed.com/q-tecnico-agricola-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html",
+      "first_seen": "2026-07-20"
+    },
+    {
+      "id": "qima-inspector-calidad-agricola-santiago",
+      "title": "Inspector(a) de Calidad Agrícola",
+      "company": "QIMA",
+      "location": "Santiago, Región Metropolitana",
+      "type": "empleo",
+      "source": "Búsqueda web (agregador)",
+      "search_url": "https://cl.indeed.com/q-tecnico-agricola-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html",
+      "first_seen": "2026-07-20"
+    },
+    {
+      "id": "concha-y-toro-encargado-riego",
+      "title": "Encargado(a) de Riego",
+      "company": "Viña Concha y Toro",
+      "location": "Región Metropolitana",
+      "type": "empleo",
+      "source": "Búsqueda web (agregador)",
+      "search_url": "https://cl.indeed.com/q-tecnico-agricola-l-regi%C3%B3n-metropolitana-empleos.html",
       "first_seen": "2026-07-20"
     }
   ],
