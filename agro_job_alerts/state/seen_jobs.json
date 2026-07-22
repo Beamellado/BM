@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_checked": "2026-07-20T18:17:00Z",
+  "last_checked": "2026-07-21T00:17:00Z",
   "region": "Región Metropolitana, Chile",
   "keywords": [
     "agrícola", "agrónomo", "agronomía", "técnico agrícola",
@@ -579,6 +579,36 @@
       "source": "Búsqueda web (agregador)",
       "search_url": "https://cl.indeed.com/q-tecnico-agricola-l-regi%C3%B3n-metropolitana-empleos.html",
       "first_seen": "2026-07-20"
+    },
+    {
+      "id": "especialista-flora-vegetacion-corredor-alameda",
+      "title": "Especialista en Flora y Vegetación - apoyo a estudio de impacto ambiental del corredor de carga Alameda",
+      "company": "No especificada en el resumen de búsqueda",
+      "location": "Santiago, Región Metropolitana",
+      "type": "empleo",
+      "source": "Búsqueda web (agregador)",
+      "search_url": "https://cl.indeed.com/q-agricola-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html",
+      "first_seen": "2026-07-21"
+    },
+    {
+      "id": "practica-tecnico-agricola-ong-2-vacantes",
+      "title": "Práctica técnico agrícola - operaciones agrícolas y mantención de jardines (2 vacantes)",
+      "company": "Organización sin fines de lucro (ONG, no especificada en el resumen)",
+      "location": "Región Metropolitana",
+      "type": "práctica",
+      "source": "Búsqueda web (agregador)",
+      "search_url": "https://cl.indeed.com/q-agr%C3%B3nomo-l-regi%C3%B3n-metropolitana-empleos.html",
+      "first_seen": "2026-07-21"
+    },
+    {
+      "id": "tecnico-control-calidad-agricola-colina",
+      "title": "Técnico de Control de Calidad",
+      "company": "No especificada en el resumen de búsqueda (empresa agrícola)",
+      "location": "Colina, Región Metropolitana",
+      "type": "empleo",
+      "source": "Búsqueda web (agregador)",
+      "search_url": "https://cl.indeed.com/q-pr%C3%A1ctica-agr%C3%ADcola-empleos.html",
+      "first_seen": "2026-07-21"
     }
   ],
   "notes": "Baseline inicial generado el 2026-07-14, ampliado el mismo día para incluir prácticas profesionales/practicantes. Estas entradas son un resumen de lo encontrado vía búsqueda web, no capturas exactas de avisos individuales, porque Indeed, Laborum, Computrabajo, LinkedIn y Chiletrabajos bloquean el acceso directo (HTTP 403) tanto a páginas de listado como a avisos individuales. Ver 'link_policy' sobre el alcance real de 'search_url'. Las próximas revisiones comparan contra esta lista para detectar ofertas y prácticas nuevas."
