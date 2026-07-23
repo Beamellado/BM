@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_checked": "2026-07-21T12:17:00Z",
+  "last_checked": "2026-07-21T18:17:00Z",
   "region": "Región Metropolitana, Chile",
   "keywords": [
     "agrícola", "agrónomo", "agronomía", "técnico agrícola",
@@ -608,6 +608,16 @@
       "type": "empleo",
       "source": "Búsqueda web (agregador)",
       "search_url": "https://cl.indeed.com/q-pr%C3%A1ctica-agr%C3%ADcola-empleos.html",
+      "first_seen": "2026-07-21"
+    },
+    {
+      "id": "centro-veterinario-agricola-cerrillos",
+      "title": "Trabajador(a) de Producción (perfil agrícola/técnico/agronómico)",
+      "company": "Centro Veterinario y Agrícola Ltda",
+      "location": "Cerrillos, Región Metropolitana",
+      "type": "empleo",
+      "source": "Búsqueda web (agregador)",
+      "search_url": "https://cl.indeed.com/q-agr%C3%B3nomo-l-regi%C3%B3n-metropolitana-empleos.html",
       "first_seen": "2026-07-21"
     }
   ],
