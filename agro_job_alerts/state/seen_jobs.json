@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_checked": "2026-07-22T12:17:00Z",
+  "last_checked": "2026-07-22T18:17:00Z",
   "region": "Región Metropolitana, Chile",
   "keywords": [
     "agrícola", "agrónomo", "agronomía", "técnico agrícola",
@@ -628,6 +628,26 @@
       "type": "empleo",
       "source": "Búsqueda web (agregador)",
       "search_url": "https://cl.indeed.com/q-ingeniero-agricola-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html",
+      "first_seen": "2026-07-22"
+    },
+    {
+      "id": "supervisor-riego-melipilla-turnos",
+      "title": "Supervisor(a) de Riego - supervisa y coordina operaciones de planta durante turnos",
+      "company": "No especificada en el resumen de búsqueda",
+      "location": "Melipilla, Región Metropolitana",
+      "type": "empleo",
+      "source": "Búsqueda web (agregador)",
+      "search_url": "https://cl.indeed.com/q-tecnico-agricola-l-regi%C3%B3n-metropolitana-empleos.html",
+      "first_seen": "2026-07-22"
+    },
+    {
+      "id": "trabajador-agricola-maiz-turno-nocturno-paine",
+      "title": "Trabajador(a) Agrícola - cultivo de maíz, turno nocturno",
+      "company": "No especificada en el resumen de búsqueda",
+      "location": "Paine, Región Metropolitana",
+      "type": "empleo",
+      "source": "Búsqueda web (agregador)",
+      "search_url": "https://cl.indeed.com/q-tecnico-agricola-l-regi%C3%B3n-metropolitana-empleos.html",
       "first_seen": "2026-07-22"
     }
   ],
