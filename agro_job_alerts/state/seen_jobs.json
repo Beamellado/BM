@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_checked": "2026-07-25T00:17:00Z",
+  "last_checked": "2026-07-25T06:17:00Z",
   "region": "Región Metropolitana, Chile",
   "keywords": [
     "agrícola", "agrónomo", "agronomía", "técnico agrícola",
@@ -698,6 +698,16 @@
       "type": "práctica",
       "source": "Búsqueda web (agregador)",
       "search_url": "https://cl.indeed.com/q-pr%C3%A1ctica-agr%C3%ADcola-empleos.html",
+      "first_seen": "2026-07-25"
+    },
+    {
+      "id": "anasac-desarrollo-gestion-proyectos-agricolas",
+      "title": "Desarrollo/Gestión de Proyectos Agrícolas (máx. 2 años de experiencia)",
+      "company": "Anasac",
+      "location": "Región Metropolitana",
+      "type": "empleo",
+      "source": "Búsqueda web (agregador)",
+      "search_url": "https://cl.indeed.com/q-agr%C3%B3nomo-l-regi%C3%B3n-metropolitana-empleos.html",
       "first_seen": "2026-07-25"
     }
   ],
