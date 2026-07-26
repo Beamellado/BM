@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_checked": "2026-07-24T18:17:00Z",
+  "last_checked": "2026-07-25T00:17:00Z",
   "region": "Región Metropolitana, Chile",
   "keywords": [
     "agrícola", "agrónomo", "agronomía", "técnico agrícola",
@@ -679,6 +679,26 @@
       "source": "Búsqueda web (agregador)",
       "search_url": "https://cl.jooble.org/trabajo-practicante-agronomo",
       "first_seen": "2026-07-24"
+    },
+    {
+      "id": "summit-agro-chile-practica-las-condes",
+      "title": "Práctica profesional - empresa internacional agrícola",
+      "company": "Summit Agro Chile",
+      "location": "Las Condes, Región Metropolitana",
+      "type": "práctica",
+      "source": "Búsqueda web (agregador)",
+      "search_url": "https://cl.indeed.com/q-pr%C3%A1ctica-agr%C3%ADcola-empleos.html",
+      "first_seen": "2026-07-25"
+    },
+    {
+      "id": "ariztia-practica-ingenieros-agronomos-el-monte",
+      "title": "Práctica para Ingenieros Agrónomos, Técnicos Agrícolas o Ingenieros Industriales",
+      "company": "Ariztía",
+      "location": "El Monte, Región Metropolitana",
+      "type": "práctica",
+      "source": "Búsqueda web (agregador)",
+      "search_url": "https://cl.indeed.com/q-pr%C3%A1ctica-agr%C3%ADcola-empleos.html",
+      "first_seen": "2026-07-25"
     }
   ],
   "notes": "Baseline inicial generado el 2026-07-14, ampliado el mismo día para incluir prácticas profesionales/practicantes. Estas entradas son un resumen de lo encontrado vía búsqueda web, no capturas exactas de avisos individuales, porque Indeed, Laborum, Computrabajo, LinkedIn y Chiletrabajos bloquean el acceso directo (HTTP 403) tanto a páginas de listado como a avisos individuales. Ver 'link_policy' sobre el alcance real de 'search_url'. Las próximas revisiones comparan contra esta lista para detectar ofertas y prácticas nuevas."
