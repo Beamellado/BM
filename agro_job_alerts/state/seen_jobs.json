@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_checked": "2026-07-25T12:17:00Z",
+  "last_checked": "2026-07-25T18:17:00Z",
   "region": "Región Metropolitana, Chile",
   "keywords": [
     "agrícola", "agrónomo", "agronomía", "técnico agrícola",
@@ -748,6 +748,16 @@
       "type": "práctica",
       "source": "Emplea INACAP",
       "search_url": "https://emplea.inacap.cl/trabajar-en-produce-inspectors-of-america/trabajos/practica-agricola/708771",
+      "first_seen": "2026-07-25"
+    },
+    {
+      "id": "jefe-de-campo-melipilla-chiletrabajos",
+      "title": "Jefe de Campo",
+      "company": "No especificada en el resumen de búsqueda",
+      "location": "Melipilla, Región Metropolitana",
+      "type": "empleo",
+      "source": "Chiletrabajos",
+      "search_url": "https://www.chiletrabajos.cl/trabajo/jefe-de-campo-3858768",
       "first_seen": "2026-07-25"
     }
   ],
