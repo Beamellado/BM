@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_checked": "2026-07-25T06:17:00Z",
+  "last_checked": "2026-07-25T12:17:00Z",
   "region": "Región Metropolitana, Chile",
   "keywords": [
     "agrícola", "agrónomo", "agronomía", "técnico agrícola",
@@ -708,6 +708,46 @@
       "type": "empleo",
       "source": "Búsqueda web (agregador)",
       "search_url": "https://cl.indeed.com/q-agr%C3%B3nomo-l-regi%C3%B3n-metropolitana-empleos.html",
+      "first_seen": "2026-07-25"
+    },
+    {
+      "id": "anasac-practica-tecnico-agricola-calidad-semillas-lampa",
+      "title": "Práctica Profesional Técnico Agrícola - área Calidad de Semillas (análisis según normas ISTA)",
+      "company": "Anasac",
+      "location": "Lampa, Región Metropolitana",
+      "type": "práctica",
+      "source": "Búsqueda web (agregador)",
+      "search_url": "https://cl.trabajo.org/oferta-2862-bb781d312f9981e08bb8214256e151fa",
+      "first_seen": "2026-07-25"
+    },
+    {
+      "id": "westfalia-fruit-practica-agronomia-hibrida",
+      "title": "Práctica en Agronomía (modalidad híbrida, disponibilidad inmediata)",
+      "company": "Westfalia Fruit",
+      "location": "Región Metropolitana",
+      "type": "práctica",
+      "source": "Búsqueda web (agregador)",
+      "search_url": "https://cl.indeed.com/q-pr%C3%A1ctica-agr%C3%ADcola-empleos.html",
+      "first_seen": "2026-07-25"
+    },
+    {
+      "id": "practica-agricola-presencial-huechuraba",
+      "title": "Práctica agrícola presencial (jornada completa)",
+      "company": "No especificada en el resumen de búsqueda",
+      "location": "Huechuraba, Región Metropolitana",
+      "type": "práctica",
+      "source": "Búsqueda web (agregador)",
+      "search_url": "https://cl.indeed.com/q-pr%C3%A1ctica-agr%C3%ADcola-empleos.html",
+      "first_seen": "2026-07-25"
+    },
+    {
+      "id": "qima-practica-agricola",
+      "title": "Práctica Agrícola",
+      "company": "QIMA",
+      "location": "Región Metropolitana",
+      "type": "práctica",
+      "source": "Emplea INACAP",
+      "search_url": "https://emplea.inacap.cl/trabajar-en-produce-inspectors-of-america/trabajos/practica-agricola/708771",
       "first_seen": "2026-07-25"
     }
   ],
