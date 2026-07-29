@@ -1,12 +1,22 @@
 {
   "schema_version": 2,
-  "last_checked": "2026-07-28T00:17:00Z",
+  "last_checked": "2026-07-28T06:17:00Z",
   "region": "Región Metropolitana, Chile",
   "keywords": [
-    "agrícola", "agrónomo", "agronomía", "técnico agrícola",
-    "ingeniero agrónomo", "campo", "huerto", "viveros", "riego agrícola",
-    "práctica agrícola", "práctica agronomía", "práctica profesional agrónomo",
-    "practicante agrícola", "practicante agrónomo"
+    "agrícola",
+    "agrónomo",
+    "agronomía",
+    "técnico agrícola",
+    "ingeniero agrónomo",
+    "campo",
+    "huerto",
+    "viveros",
+    "riego agrícola",
+    "práctica agrícola",
+    "práctica agronomía",
+    "práctica profesional agrónomo",
+    "practicante agrícola",
+    "practicante agrónomo"
   ],
   "link_policy": "Los enlaces guardados en 'search_url' apuntan a la página de búsqueda/listado del portal (filtrada por cargo o palabra clave), NO al aviso individual. Indeed, Laborum, Computrabajo, LinkedIn y Chiletrabajos bloquean el acceso automatizado (HTTP 403) incluso a avisos individuales indexados por buscadores, por lo que no es posible garantizar un permalink estable y funcional. Al abrir el enlace, busca el cargo/empresa indicados en el listado resultante; si ya no aparece, es probable que el aviso haya sido retirado o repaginado.",
   "jobs": [
@@ -769,6 +779,16 @@
       "source": "Búsqueda web (agregador)",
       "search_url": "https://cl.indeed.com/q-tecnico-agricola-l-regi%C3%B3n-metropolitana-empleos.html",
       "first_seen": "2026-07-27"
+    },
+    {
+      "id": "vector-airoma-practica-tecnico-control-plagas-santiago",
+      "title": "Práctica Profesional — Técnico en Control de Plagas (abierta a Agronomía)",
+      "company": "Vector y Airoma",
+      "location": "Santiago, Región Metropolitana",
+      "type": "práctica",
+      "source": "Búsqueda web (agregador)",
+      "search_url": "https://cl.jooble.org/trabajo-practica-agricola/Regi%C3%B3n-Metropolitana",
+      "first_seen": "2026-07-28"
     }
   ],
   "notes": "Baseline inicial generado el 2026-07-14, ampliado el mismo día para incluir prácticas profesionales/practicantes. Estas entradas son un resumen de lo encontrado vía búsqueda web, no capturas exactas de avisos individuales, porque Indeed, Laborum, Computrabajo, LinkedIn y Chiletrabajos bloquean el acceso directo (HTTP 403) tanto a páginas de listado como a avisos individuales. Ver 'link_policy' sobre el alcance real de 'search_url'. Las próximas revisiones comparan contra esta lista para detectar ofertas y prácticas nuevas."
