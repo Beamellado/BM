@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_checked": "2026-07-29T18:17:00Z",
+  "last_checked": "2026-07-30T00:17:00Z",
   "region": "Región Metropolitana, Chile",
   "keywords": [
     "agrícola",
@@ -809,6 +809,26 @@
       "source": "Búsqueda web (agregador)",
       "search_url": "https://cl.indeed.com/q-aguas-andinas-ingeniero-empleos.html",
       "first_seen": "2026-07-29"
+    },
+    {
+      "id": "ingeniero-agricola-procesos-iso-gestion-personas-santiago",
+      "title": "Ingeniero(a) en Agronomía, Civil Industrial o Civil Química — procesos, desarrollo de proyectos, gestión de personas, normas ISO (3+ años exp.)",
+      "company": "No especificada en el resumen de búsqueda",
+      "location": "Santiago, Región Metropolitana",
+      "type": "empleo",
+      "source": "Indeed Chile (agregador de búsqueda)",
+      "search_url": "https://cl.indeed.com/q-ingeniero-agricola-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html",
+      "first_seen": "2026-07-30"
+    },
+    {
+      "id": "ingeniero-agronomo-id-cultivos-anuales-diseno-experimental-santiago",
+      "title": "Ingeniero(a) Agrónomo(a) — liderazgo I+D, diseño de experimentos agrícolas y análisis estadístico, cultivos anuales, inglés intermedio-avanzado (3+ años exp.)",
+      "company": "No especificada en el resumen de búsqueda",
+      "location": "Santiago, Región Metropolitana",
+      "type": "empleo",
+      "source": "Indeed Chile (agregador de búsqueda)",
+      "search_url": "https://cl.indeed.com/q-ingeniero-agricola-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html",
+      "first_seen": "2026-07-30"
     }
   ],
   "notes": "Baseline inicial generado el 2026-07-14, ampliado el mismo día para incluir prácticas profesionales/practicantes. Estas entradas son un resumen de lo encontrado vía búsqueda web, no capturas exactas de avisos individuales, porque Indeed, Laborum, Computrabajo, LinkedIn y Chiletrabajos bloquean el acceso directo (HTTP 403) tanto a páginas de listado como a avisos individuales. Ver 'link_policy' sobre el alcance real de 'search_url'. Las próximas revisiones comparan contra esta lista para detectar ofertas y prácticas nuevas."
