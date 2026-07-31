@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_checked": "2026-07-29T12:17:00Z",
+  "last_checked": "2026-07-29T18:17:00Z",
   "region": "Región Metropolitana, Chile",
   "keywords": [
     "agrícola",
@@ -799,6 +799,16 @@
       "source": "Búsqueda web (agregador — duoclaboral.cl)",
       "search_url": "https://duoclaboral.cl/trabajar-en-fundacion-fraunhofer-chile-research/trabajos/oferta-practica-profesional-sector-agricola-apicola/23566",
       "first_seen": "2026-07-28"
+    },
+    {
+      "id": "aguas-andinas-ingeniero-agronomo-biosolidos-suelos-agricolas",
+      "title": "Ingeniero(a) Agrónomo(a)/Forestal — control y monitoreo de contratos de transporte y disposición de biosólidos en suelos agrícolas",
+      "company": "Aguas Andinas",
+      "location": "Santiago, Región Metropolitana",
+      "type": "empleo",
+      "source": "Búsqueda web (agregador)",
+      "search_url": "https://cl.indeed.com/q-aguas-andinas-ingeniero-empleos.html",
+      "first_seen": "2026-07-29"
     }
   ],
   "notes": "Baseline inicial generado el 2026-07-14, ampliado el mismo día para incluir prácticas profesionales/practicantes. Estas entradas son un resumen de lo encontrado vía búsqueda web, no capturas exactas de avisos individuales, porque Indeed, Laborum, Computrabajo, LinkedIn y Chiletrabajos bloquean el acceso directo (HTTP 403) tanto a páginas de listado como a avisos individuales. Ver 'link_policy' sobre el alcance real de 'search_url'. Las próximas revisiones comparan contra esta lista para detectar ofertas y prácticas nuevas."
