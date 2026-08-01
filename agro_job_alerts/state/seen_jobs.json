@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_checked": "2026-07-30T18:17:00Z",
+  "last_checked": "2026-07-31T00:17:00Z",
   "region": "Región Metropolitana, Chile",
   "keywords": [
     "agrícola",
@@ -829,6 +829,16 @@
       "source": "Indeed Chile (agregador de búsqueda)",
       "search_url": "https://cl.indeed.com/q-ingeniero-agricola-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html",
       "first_seen": "2026-07-30"
+    },
+    {
+      "id": "cultiva-practica-agronomia-vivero-especies-nativas-pirque",
+      "title": "Práctica Profesional Agronomía/Técnico Agrícola/Ingeniería Forestal — propagación, mantención y reforestación de especies nativas en vivero (360 horas, 5 cupos desde agosto)",
+      "company": "Cultiva",
+      "location": "Pirque, Región Metropolitana",
+      "type": "práctica",
+      "source": "Chiletrabajos",
+      "search_url": "https://www.chiletrabajos.cl/trabajo/practica-profesional-agronomia-3873412",
+      "first_seen": "2026-07-31"
     }
   ],
   "notes": "Baseline inicial generado el 2026-07-14, ampliado el mismo día para incluir prácticas profesionales/practicantes. Estas entradas son un resumen de lo encontrado vía búsqueda web, no capturas exactas de avisos individuales, porque Indeed, Laborum, Computrabajo, LinkedIn y Chiletrabajos bloquean el acceso directo (HTTP 403) tanto a páginas de listado como a avisos individuales. Ver 'link_policy' sobre el alcance real de 'search_url'. Las próximas revisiones comparan contra esta lista para detectar ofertas y prácticas nuevas."
