@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_checked": "2026-07-31T18:17:00Z",
+  "last_checked": "2026-08-01T00:17:00Z",
   "region": "Región Metropolitana, Chile",
   "keywords": [
     "agrícola",
@@ -849,6 +849,16 @@
       "source": "Búsqueda web (agregador)",
       "search_url": "https://cl.indeed.com/q-tecnico-agricola-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html",
       "first_seen": "2026-07-31"
+    },
+    {
+      "id": "subgerente-area-fruticola-id-santiago",
+      "title": "Subgerente de Área Frutícola — I+D con productores y exportadoras de fruta fresca (modalidad híbrida, contrato indefinido)",
+      "company": "No especificada en el resumen de búsqueda (postulación a radonis@fdf.cl)",
+      "location": "Santiago, Región Metropolitana",
+      "type": "empleo",
+      "source": "Portal Agro Chile",
+      "search_url": "https://www.portalagrochile.cl/ofertas-laborales-agro/",
+      "first_seen": "2026-08-01"
     }
   ],
   "notes": "Baseline inicial generado el 2026-07-14, ampliado el mismo día para incluir prácticas profesionales/practicantes. Estas entradas son un resumen de lo encontrado vía búsqueda web, no capturas exactas de avisos individuales, porque Indeed, Laborum, Computrabajo, LinkedIn y Chiletrabajos bloquean el acceso directo (HTTP 403) tanto a páginas de listado como a avisos individuales. Ver 'link_policy' sobre el alcance real de 'search_url'. Las próximas revisiones comparan contra esta lista para detectar ofertas y prácticas nuevas."
