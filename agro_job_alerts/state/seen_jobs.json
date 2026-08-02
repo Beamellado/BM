@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_checked": "2026-08-01T00:17:00Z",
+  "last_checked": "2026-08-01T06:17:00Z",
   "region": "Región Metropolitana, Chile",
   "keywords": [
     "agrícola",
@@ -858,6 +858,26 @@
       "type": "empleo",
       "source": "Portal Agro Chile",
       "search_url": "https://www.portalagrochile.cl/ofertas-laborales-agro/",
+      "first_seen": "2026-08-01"
+    },
+    {
+      "id": "cyd-ingenieria-agronomo-inspeccion-fiscal-parque-victor-jara",
+      "title": "Ingeniero(a) Agrónomo(a) (8 años de experiencia) — asesoría a la inspección fiscal del Parque Inundable Víctor Jara",
+      "company": "CyD Ingeniería",
+      "location": "San Joaquín, Región Metropolitana",
+      "type": "empleo",
+      "source": "Búsqueda web (agregador)",
+      "search_url": "https://cl.jobsora.com/empleos-ingeniero-agricola-agronomo-chile",
+      "first_seen": "2026-08-01"
+    },
+    {
+      "id": "jefe-faena-agronomia-forestal-obras-civiles-menores-rm",
+      "title": "Jefe de Faena — formación en agronomía, supervisión y coordinación de trabajos en terreno (sector forestal y obras civiles menores)",
+      "company": "No especificada en el resumen de búsqueda",
+      "location": "Región Metropolitana",
+      "type": "empleo",
+      "source": "Búsqueda web (agregador)",
+      "search_url": "https://cl.jooble.org/trabajo-jefe-faena",
       "first_seen": "2026-08-01"
     }
   ],
