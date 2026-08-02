@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_checked": "2026-07-31T06:17:00Z",
+  "last_checked": "2026-07-31T12:17:00Z",
   "region": "Región Metropolitana, Chile",
   "keywords": [
     "agrícola",
@@ -838,6 +838,16 @@
       "type": "práctica",
       "source": "Chiletrabajos",
       "search_url": "https://www.chiletrabajos.cl/trabajo/practica-profesional-agronomia-3873412",
+      "first_seen": "2026-07-31"
+    },
+    {
+      "id": "ariztia-tecnico-agricola-calidad-santiago",
+      "title": "Técnico Agrícola — apoyo área de Calidad (monitoreo y control de saneadores y proceso productivo)",
+      "company": "Ariztía",
+      "location": "Santiago, Región Metropolitana",
+      "type": "empleo",
+      "source": "Búsqueda web (agregador)",
+      "search_url": "https://cl.indeed.com/q-tecnico-agricola-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html",
       "first_seen": "2026-07-31"
     }
   ],
