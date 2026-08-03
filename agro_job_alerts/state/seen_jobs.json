@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_checked": "2026-08-01T06:17:00Z",
+  "last_checked": "2026-08-01T12:17:00Z",
   "region": "Región Metropolitana, Chile",
   "keywords": [
     "agrícola",
@@ -878,6 +878,26 @@
       "type": "empleo",
       "source": "Búsqueda web (agregador)",
       "search_url": "https://cl.jooble.org/trabajo-jefe-faena",
+      "first_seen": "2026-08-01"
+    },
+    {
+      "id": "acom-spa-administrador-contratos-alimentos-agronomia-santiago",
+      "title": "Administrador(a) de Contratos — perfil Alimentos, Bioquímica, Agronomía o Agroindustria",
+      "company": "ACOM SpA",
+      "location": "Santiago Centro, Región Metropolitana",
+      "type": "empleo",
+      "source": "Búsqueda web (agregador)",
+      "search_url": "https://cl.computrabajo.com/trabajo-de-agronomo-en-rmetropolitana",
+      "first_seen": "2026-08-01"
+    },
+    {
+      "id": "progestion-vendedor-agronomo-pudahuel",
+      "title": "Vendedor(a) Agrónomo(a)",
+      "company": "Progestion Chile",
+      "location": "Pudahuel, Región Metropolitana",
+      "type": "empleo",
+      "source": "Búsqueda web (agregador — trabajo.org)",
+      "search_url": "https://cl.trabajo.org/oferta-4039-000013bd33416f68d6316971654188fb",
       "first_seen": "2026-08-01"
     }
   ],
