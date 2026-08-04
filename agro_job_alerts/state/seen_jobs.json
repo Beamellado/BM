@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_checked": "2026-08-02T06:17:00Z",
+  "last_checked": "2026-08-02T12:17:00Z",
   "region": "Región Metropolitana, Chile",
   "keywords": [
     "agrícola",
@@ -899,6 +899,16 @@
       "source": "Búsqueda web (agregador — trabajo.org)",
       "search_url": "https://cl.trabajo.org/oferta-4039-000013bd33416f68d6316971654188fb",
       "first_seen": "2026-08-01"
+    },
+    {
+      "id": "agricola-maria-pinto-subgerente-jefe-operaciones-fruticola",
+      "title": "Sub Gerente / Jefe de Operaciones — empresa frutícola (coordinación de tareas productivas y operacionales)",
+      "company": "Agrícola María Pinto",
+      "location": "María Pinto, Región Metropolitana",
+      "type": "empleo",
+      "source": "Búsqueda web (agregador — LinkedIn/trabajo.org)",
+      "search_url": "https://cl.trabajo.org/oferta-1401-edc3c7f57c87a06df9618e529a6a1e01",
+      "first_seen": "2026-08-02"
     }
   ],
   "notes": "Baseline inicial generado el 2026-07-14, ampliado el mismo día para incluir prácticas profesionales/practicantes. Estas entradas son un resumen de lo encontrado vía búsqueda web, no capturas exactas de avisos individuales, porque Indeed, Laborum, Computrabajo, LinkedIn y Chiletrabajos bloquean el acceso directo (HTTP 403) tanto a páginas de listado como a avisos individuales. Ver 'link_policy' sobre el alcance real de 'search_url'. Las próximas revisiones comparan contra esta lista para detectar ofertas y prácticas nuevas."
