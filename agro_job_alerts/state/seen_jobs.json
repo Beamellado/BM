@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_checked": "2026-08-03T12:17:00Z",
+  "last_checked": "2026-08-03T18:17:00Z",
   "region": "Región Metropolitana, Chile",
   "keywords": [
     "agrícola",
@@ -333,7 +333,7 @@
     {
       "id": "tecnico-agricola-curacavi-kiwi-manzana",
       "title": "Técnico Agrícola - encargado de campo, especies kiwi y manzana",
-      "company": "No especificada en el resumen de búsqueda",
+      "company": "Agrícola ADLC",
       "location": "Curacaví, Región Metropolitana",
       "type": "empleo",
       "source": "Búsqueda web (agregador)",
