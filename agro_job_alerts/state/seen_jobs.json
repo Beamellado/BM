@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_checked": "2026-08-04T12:17:00Z",
+  "last_checked": "2026-08-04T18:17:00Z",
   "region": "Región Metropolitana, Chile",
   "keywords": [
     "agrícola",
@@ -918,6 +918,16 @@
       "type": "práctica",
       "source": "Regenera FAIF (portal de empleabilidad Facultad de Agronomía UC)",
       "search_url": "https://regenera.faif.cl/trabajar-en-inmobiliaria-santa-ana-lta/trabajos/practica-profesional-talagante-uva-de-mesa-cerezos-nectarines-mandarinas/654197",
+      "first_seen": "2026-08-04"
+    },
+    {
+      "id": "decofrut-control-calidad-frutas-hortalizas-cencosud-santiago",
+      "title": "Ingeniero(a) Agrícola/Agrónomo(a)/Técnico Agrícola — control de calidad de frutas y hortalizas (frescas y/o congeladas) en centro de distribución Cencosud",
+      "company": "DECOFRUT",
+      "location": "Santiago, Región Metropolitana",
+      "type": "empleo",
+      "source": "Búsqueda web (agregador — emplea.inacap.cl)",
+      "search_url": "https://emplea.inacap.cl/trabajar-en-decofrut11/trabajos/control-de-calidad-de-alimentos-santiago-region-metropolitana/717277",
       "first_seen": "2026-08-04"
     }
   ],
