@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_checked": "2026-09-06T00:18:17Z",
+  "last_checked": "2026-09-06T06:19:49Z",
   "region": "Región Metropolitana, Chile",
   "keywords": [
     "agrícola",
@@ -949,6 +949,36 @@
       "source": "Búsqueda web (agregador)",
       "search_url": "https://cl.indeed.com/q-ingeniero-agronomo-empleos.html",
       "first_seen": "2026-08-08"
+    },
+    {
+      "id": "packing-merquen-jefe-turno-temporada-paine",
+      "title": "Jefe de Turno por temporada (3-4 meses)",
+      "company": "Packing Merquen SpA",
+      "location": "Paine, Región Metropolitana",
+      "type": "empleo",
+      "source": "Búsqueda web (agregador — Indeed/Computrabajo)",
+      "search_url": "https://cl.indeed.com/q-jefe-l-paine,-regi%C3%B3n-metropolitana-empleos.html",
+      "first_seen": "2026-09-06"
+    },
+    {
+      "id": "administrador-agricola-cliente-melipilla-maria-pinto-3822578",
+      "title": "Administrador Agrícola — liderar gestión técnica de operaciones agrícolas, planes productivos, eficiencia en campo",
+      "company": "No especificada en el resumen de búsqueda (destacado cliente)",
+      "location": "Melipilla/María Pinto, Región Metropolitana",
+      "type": "empleo",
+      "source": "Chiletrabajos",
+      "search_url": "https://www.chiletrabajos.cl/trabajo/administrador-agricola-3822578",
+      "first_seen": "2026-09-06"
+    },
+    {
+      "id": "agricola-la-hornilla-subadministrador-campo-melipilla",
+      "title": "Subadministrador de Campo — gestión operativa y técnica del predio, 5+ años exp., manejo de personal (incluye casa)",
+      "company": "Agrícola La Hornilla",
+      "location": "Melipilla, Región Metropolitana",
+      "type": "empleo",
+      "source": "Búsqueda web (agregador — LinkedIn/trabajo.org)",
+      "search_url": "https://cl.trabajo.org/oferta-2254-ad2e2ebba2a01a230b6926452ca1aae0",
+      "first_seen": "2026-09-06"
     }
   ],
   "notes": "Baseline inicial generado el 2026-07-14, ampliado el mismo día para incluir prácticas profesionales/practicantes. Estas entradas son un resumen de lo encontrado vía búsqueda web, no capturas exactas de avisos individuales, porque Indeed, Laborum, Computrabajo, LinkedIn y Chiletrabajos bloquean el acceso directo (HTTP 403) tanto a páginas de listado como a avisos individuales. Ver 'link_policy' sobre el alcance real de 'search_url'. Las próximas revisiones comparan contra esta lista para detectar ofertas y prácticas nuevas."
