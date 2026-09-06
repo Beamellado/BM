@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_checked": "2026-09-06T06:19:49Z",
+  "last_checked": "2026-09-06T12:19:08Z",
   "region": "Región Metropolitana, Chile",
   "keywords": [
     "agrícola",
@@ -978,6 +978,16 @@
       "type": "empleo",
       "source": "Búsqueda web (agregador — LinkedIn/trabajo.org)",
       "search_url": "https://cl.trabajo.org/oferta-2254-ad2e2ebba2a01a230b6926452ca1aae0",
+      "first_seen": "2026-09-06"
+    },
+    {
+      "id": "chiletrabajos-practica-tecnico-agricola-vitivinicola-puente-alto-3738841",
+      "title": "Práctica Laboral para Técnico Agrícola — empresa vitivinícola exportadora",
+      "company": "No especificada en el resumen de búsqueda (empresa vitivinícola exportadora)",
+      "location": "Puente Alto, Región Metropolitana",
+      "type": "práctica",
+      "source": "Chiletrabajos",
+      "search_url": "https://www.chiletrabajos.cl/trabajo/pr-ctica-laboral-para-t-cnico-agr-cola-puente-alto-3738841",
       "first_seen": "2026-09-06"
     }
   ],
