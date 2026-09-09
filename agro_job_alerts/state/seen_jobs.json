@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_checked": "2026-09-09T00:18:43Z",
+  "last_checked": "2026-09-09T06:20:46Z",
   "region": "Región Metropolitana, Chile",
   "keywords": [
     "agrícola",
@@ -989,6 +989,16 @@
       "source": "Chiletrabajos",
       "search_url": "https://www.chiletrabajos.cl/trabajo/pr-ctica-laboral-para-t-cnico-agr-cola-puente-alto-3738841",
       "first_seen": "2026-09-06"
+    },
+    {
+      "id": "maclean-tecnico-agricola-contraparte-sag-isla-de-maipo",
+      "title": "Técnico Agrícola — Contraparte Técnica SAG ($700.000 mensual, 1+ año exp., normativa fitosanitaria y procesos de exportación)",
+      "company": "Maclean Ltda",
+      "location": "Isla de Maipo, Región Metropolitana",
+      "type": "empleo",
+      "source": "Búsqueda web (agregador — Indeed/Computrabajo)",
+      "search_url": "https://cl.indeed.com/q-t%C3%A9cnico-agr%C3%ADcola-empleos.html",
+      "first_seen": "2026-09-09"
     }
   ],
   "notes": "Baseline inicial generado el 2026-07-14, ampliado el mismo día para incluir prácticas profesionales/practicantes. Estas entradas son un resumen de lo encontrado vía búsqueda web, no capturas exactas de avisos individuales, porque Indeed, Laborum, Computrabajo, LinkedIn y Chiletrabajos bloquean el acceso directo (HTTP 403) tanto a páginas de listado como a avisos individuales. Ver 'link_policy' sobre el alcance real de 'search_url'. Las próximas revisiones comparan contra esta lista para detectar ofertas y prácticas nuevas."
