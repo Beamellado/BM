@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_checked": "2026-09-10T06:19:48Z",
+  "last_checked": "2026-09-10T12:21:55Z",
   "region": "Región Metropolitana, Chile",
   "keywords": [
     "agrícola",
@@ -999,6 +999,16 @@
       "source": "Búsqueda web (agregador — Indeed/Computrabajo)",
       "search_url": "https://cl.indeed.com/q-t%C3%A9cnico-agr%C3%ADcola-empleos.html",
       "first_seen": "2026-09-09"
+    },
+    {
+      "id": "malooreco-agroindustrial-especialista-operaciones-santiago",
+      "title": "Especialista de Operaciones — coordinación de actividades y operaciones agrícolas (producción, logística o administración)",
+      "company": "Malooreco Agroindustrial",
+      "location": "Santiago, Región Metropolitana",
+      "type": "empleo",
+      "source": "Búsqueda web (agregador — Indeed)",
+      "search_url": "https://cl.indeed.com/q-tecnico-agricola-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html",
+      "first_seen": "2026-09-10"
     }
   ],
   "notes": "Baseline inicial generado el 2026-07-14, ampliado el mismo día para incluir prácticas profesionales/practicantes. Estas entradas son un resumen de lo encontrado vía búsqueda web, no capturas exactas de avisos individuales, porque Indeed, Laborum, Computrabajo, LinkedIn y Chiletrabajos bloquean el acceso directo (HTTP 403) tanto a páginas de listado como a avisos individuales. Ver 'link_policy' sobre el alcance real de 'search_url'. Las próximas revisiones comparan contra esta lista para detectar ofertas y prácticas nuevas."
