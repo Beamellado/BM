@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_checked": "2026-09-12T00:18:30Z",
+  "last_checked": "2026-09-12T06:18:17Z",
   "region": "Región Metropolitana, Chile",
   "keywords": [
     "agrícola",
@@ -1009,6 +1009,16 @@
       "source": "Búsqueda web (agregador — Indeed)",
       "search_url": "https://cl.indeed.com/q-tecnico-agricola-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html",
       "first_seen": "2026-09-10"
+    },
+    {
+      "id": "exportadora-vi-region-jefe-programa-citricos-rm",
+      "title": "Jefe de Programa de Cítricos (cargo con proyección de carrera) — exportadora de carozos, cerezas y cítricos",
+      "company": "No especificada en el resumen de búsqueda (exportadora de la VI región)",
+      "location": "Región Metropolitana / VI Región",
+      "type": "empleo",
+      "source": "Colegio de Ingenieros Agrónomos de Chile",
+      "search_url": "https://colegioingenierosagronomoschile.cl/ofertas-laborales/",
+      "first_seen": "2026-09-12"
     }
   ],
   "notes": "Baseline inicial generado el 2026-07-14, ampliado el mismo día para incluir prácticas profesionales/practicantes. Estas entradas son un resumen de lo encontrado vía búsqueda web, no capturas exactas de avisos individuales, porque Indeed, Laborum, Computrabajo, LinkedIn y Chiletrabajos bloquean el acceso directo (HTTP 403) tanto a páginas de listado como a avisos individuales. Ver 'link_policy' sobre el alcance real de 'search_url'. Las próximas revisiones comparan contra esta lista para detectar ofertas y prácticas nuevas."
