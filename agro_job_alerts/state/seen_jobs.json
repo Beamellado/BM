@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_checked": "2026-09-13T00:17:56Z",
+  "last_checked": "2026-09-13T06:18:25Z",
   "region": "Región Metropolitana, Chile",
   "keywords": [
     "agrícola",
@@ -1019,6 +1019,16 @@
       "source": "Colegio de Ingenieros Agrónomos de Chile",
       "search_url": "https://colegioingenierosagronomoschile.cl/ofertas-laborales/",
       "first_seen": "2026-09-12"
+    },
+    {
+      "id": "jardin-el-ingenio-vivero-ventas-lo-barnechea",
+      "title": "Encargado(a) de Sala de Ventas — vivero de plantas nativas (área agrícola, recursos naturales o paisajismo)",
+      "company": "Jardín El Ingenio",
+      "location": "Lo Barnechea, Región Metropolitana",
+      "type": "empleo",
+      "source": "Búsqueda web (agregador — Indeed)",
+      "search_url": "https://cl.indeed.com/q-jardineria,-vivero-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html",
+      "first_seen": "2026-09-13"
     }
   ],
   "notes": "Baseline inicial generado el 2026-07-14, ampliado el mismo día para incluir prácticas profesionales/practicantes. Estas entradas son un resumen de lo encontrado vía búsqueda web, no capturas exactas de avisos individuales, porque Indeed, Laborum, Computrabajo, LinkedIn y Chiletrabajos bloquean el acceso directo (HTTP 403) tanto a páginas de listado como a avisos individuales. Ver 'link_policy' sobre el alcance real de 'search_url'. Las próximas revisiones comparan contra esta lista para detectar ofertas y prácticas nuevas."
