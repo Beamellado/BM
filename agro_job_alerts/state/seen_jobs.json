@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_checked": "2026-09-14T00:17:55Z",
+  "last_checked": "2026-09-14T06:20:49Z",
   "region": "Región Metropolitana, Chile",
   "keywords": [
     "agrícola",
@@ -1029,6 +1029,16 @@
       "source": "Búsqueda web (agregador — Indeed)",
       "search_url": "https://cl.indeed.com/q-jardineria,-vivero-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html",
       "first_seen": "2026-09-13"
+    },
+    {
+      "id": "exportadora-santa-elena-supervisor-despachos-buin",
+      "title": "Supervisor de Despachos — asegura excelencia en proceso de exportación de fruta (supervisión de transporte, carga y cadena de frío)",
+      "company": "Exportadora Santa Elena S.A.",
+      "location": "Buin, Región Metropolitana",
+      "type": "empleo",
+      "source": "Búsqueda web (agregador — Jobrapido/BeBee)",
+      "search_url": "https://cl.jobrapido.com/jobpreview/7528136597456289792",
+      "first_seen": "2026-09-14"
     }
   ],
   "notes": "Baseline inicial generado el 2026-07-14, ampliado el mismo día para incluir prácticas profesionales/practicantes. Estas entradas son un resumen de lo encontrado vía búsqueda web, no capturas exactas de avisos individuales, porque Indeed, Laborum, Computrabajo, LinkedIn y Chiletrabajos bloquean el acceso directo (HTTP 403) tanto a páginas de listado como a avisos individuales. Ver 'link_policy' sobre el alcance real de 'search_url'. Las próximas revisiones comparan contra esta lista para detectar ofertas y prácticas nuevas."
