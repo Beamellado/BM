@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_checked": "2026-09-15T00:18:49Z",
+  "last_checked": "2026-09-15T06:18:47Z",
   "region": "Región Metropolitana, Chile",
   "keywords": [
     "agrícola",
@@ -1048,6 +1048,16 @@
       "type": "empleo",
       "source": "Búsqueda web (agregador — Indeed)",
       "search_url": "https://cl.indeed.com/q-agr%C3%B3nomo-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html",
+      "first_seen": "2026-09-15"
+    },
+    {
+      "id": "genesis-plant-tecnico-agricola-produccion-buin",
+      "title": "Técnico Agrícola — asistencia de producción de plantines (vivero de plántulas injertadas)",
+      "company": "Genesis Plant",
+      "location": "Buin, Región Metropolitana",
+      "type": "empleo",
+      "source": "Búsqueda web (agregador — Indeed/Acciontrabajo)",
+      "search_url": "https://cl.indeed.com/q-tecnico-agricola-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html",
       "first_seen": "2026-09-15"
     }
   ],
