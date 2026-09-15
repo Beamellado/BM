@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_checked": "2026-09-14T18:18:20Z",
+  "last_checked": "2026-09-15T00:18:49Z",
   "region": "Región Metropolitana, Chile",
   "keywords": [
     "agrícola",
@@ -1039,6 +1039,16 @@
       "source": "Búsqueda web (agregador — Jobrapido/BeBee)",
       "search_url": "https://cl.jobrapido.com/jobpreview/7528136597456289792",
       "first_seen": "2026-09-14"
+    },
+    {
+      "id": "sgs-inspector-fruta-fitosanitario-rm",
+      "title": "Inspector(a) de fruta — inspección visual en proceso de packing para certificación fitosanitaria (temporada de exportación, deseable permisos sectoriales CONAF/SAG/CMN)",
+      "company": "SGS",
+      "location": "Región Metropolitana",
+      "type": "empleo",
+      "source": "Búsqueda web (agregador — Indeed)",
+      "search_url": "https://cl.indeed.com/q-agr%C3%B3nomo-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html",
+      "first_seen": "2026-09-15"
     }
   ],
   "notes": "Baseline inicial generado el 2026-07-14, ampliado el mismo día para incluir prácticas profesionales/practicantes. Estas entradas son un resumen de lo encontrado vía búsqueda web, no capturas exactas de avisos individuales, porque Indeed, Laborum, Computrabajo, LinkedIn y Chiletrabajos bloquean el acceso directo (HTTP 403) tanto a páginas de listado como a avisos individuales. Ver 'link_policy' sobre el alcance real de 'search_url'. Las próximas revisiones comparan contra esta lista para detectar ofertas y prácticas nuevas."
