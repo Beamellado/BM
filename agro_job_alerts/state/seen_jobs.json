@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_checked": "2026-09-20T06:18:45Z",
+  "last_checked": "2026-09-20T12:19:02Z",
   "region": "Región Metropolitana, Chile",
   "keywords": [
     "agrícola",
@@ -1059,6 +1059,16 @@
       "source": "Búsqueda web (agregador — Indeed/Acciontrabajo)",
       "search_url": "https://cl.indeed.com/q-tecnico-agricola-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html",
       "first_seen": "2026-09-15"
+    },
+    {
+      "id": "jefe-campo-huerto-cerezos-curacavi",
+      "title": "Jefe de Campo — coordinación, supervisión y ejecución de labores agrícolas en huerto de cerezos (cumplimiento de estándares productivos, fitosanitarios y operacionales)",
+      "company": "No especificada en el resumen de búsqueda",
+      "location": "Curacaví, Región Metropolitana",
+      "type": "empleo",
+      "source": "Búsqueda web (agregador — Chiletrabajos/Jooble/beBee)",
+      "search_url": "https://www.chiletrabajos.cl/encuentra-un-empleo/?2=ingeniero+agronomo&filterSearch=Buscar",
+      "first_seen": "2026-09-20"
     }
   ],
   "notes": "Baseline inicial generado el 2026-07-14, ampliado el mismo día para incluir prácticas profesionales/practicantes. Estas entradas son un resumen de lo encontrado vía búsqueda web, no capturas exactas de avisos individuales, porque Indeed, Laborum, Computrabajo, LinkedIn y Chiletrabajos bloquean el acceso directo (HTTP 403) tanto a páginas de listado como a avisos individuales. Ver 'link_policy' sobre el alcance real de 'search_url'. Las próximas revisiones comparan contra esta lista para detectar ofertas y prácticas nuevas."
