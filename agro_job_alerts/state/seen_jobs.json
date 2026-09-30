@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_checked": "2026-09-30T06:20:13Z",
+  "last_checked": "2026-09-30T12:19:44Z",
   "region": "Región Metropolitana, Chile",
   "keywords": [
     "agrícola",
@@ -20,6 +20,26 @@
   ],
   "link_policy": "Los enlaces guardados en 'search_url' apuntan a la página de búsqueda/listado del portal (filtrada por cargo o palabra clave), NO al aviso individual. Indeed, Laborum, Computrabajo, LinkedIn y Chiletrabajos bloquean el acceso automatizado (HTTP 403) incluso a avisos individuales indexados por buscadores, por lo que no es posible garantizar un permalink estable y funcional. Al abrir el enlace, busca el cargo/empresa indicados en el listado resultante; si ya no aparece, es probable que el aviso haya sido retirado o repaginado.",
   "jobs": [
+    {
+      "id": "viverro-lelinatu-asesor-agricola-forestal-providencia",
+      "title": "Asesor(a) Agrícola y Forestal (3 vacantes) — vivero: sustrato, embolsado, propagación, riego tecnificado, invernadero, 1+ año exp.",
+      "company": "Viverro Lelinatu",
+      "location": "Providencia, Región Metropolitana",
+      "type": "empleo",
+      "source": "Búsqueda web (agregador)",
+      "search_url": "https://cl.indeed.com/q-tecnico-agricola-l-regi%C3%B3n-metropolitana-empleos.html",
+      "first_seen": "2026-09-30"
+    },
+    {
+      "id": "omil-isla-de-maipo-tecnico-agricola",
+      "title": "Técnico Agrícola — supervisión y apoyo de labores agrícolas y coordinación de actividades de campo",
+      "company": "No especificada en el resumen de búsqueda (vía OMIL Isla de Maipo)",
+      "location": "Isla de Maipo, Región Metropolitana",
+      "type": "empleo",
+      "source": "Búsqueda web (agregador — OMIL Isla de Maipo)",
+      "search_url": "https://www.islademaipo.cl/ofertas-de-trabajo-a-disposicion-en-omil-casona-del-maipo/",
+      "first_seen": "2026-09-30"
+    },
     {
       "id": "xinerlink-tecnologo-calidad-pudahuel",
       "title": "Tecnólogo(a) de Calidad — 1+ año exp. en control y gestión de calidad (estudios en alimentos, agrícola, logística, ingeniería agrícola o agronomía)",
