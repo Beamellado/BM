@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_checked": "2026-09-30T00:20:25Z",
+  "last_checked": "2026-09-30T06:20:13Z",
   "region": "Región Metropolitana, Chile",
   "keywords": [
     "agrícola",
@@ -20,6 +20,16 @@
   ],
   "link_policy": "Los enlaces guardados en 'search_url' apuntan a la página de búsqueda/listado del portal (filtrada por cargo o palabra clave), NO al aviso individual. Indeed, Laborum, Computrabajo, LinkedIn y Chiletrabajos bloquean el acceso automatizado (HTTP 403) incluso a avisos individuales indexados por buscadores, por lo que no es posible garantizar un permalink estable y funcional. Al abrir el enlace, busca el cargo/empresa indicados en el listado resultante; si ya no aparece, es probable que el aviso haya sido retirado o repaginado.",
   "jobs": [
+    {
+      "id": "xinerlink-tecnologo-calidad-pudahuel",
+      "title": "Tecnólogo(a) de Calidad — 1+ año exp. en control y gestión de calidad (estudios en alimentos, agrícola, logística, ingeniería agrícola o agronomía)",
+      "company": "XinerLink (empresa de gestión de capital humano)",
+      "location": "Pudahuel, Región Metropolitana",
+      "type": "empleo",
+      "source": "Búsqueda web (agregador — Indeed/Computrabajo)",
+      "search_url": "https://cl.indeed.com/q-xinerlink-l-pudahuel,-regi%C3%B3n-metropolitana-empleos.html",
+      "first_seen": "2026-09-30"
+    },
     {
       "id": "chilenergia-agronomo-relatorias-asesorias-proyectos-santiago",
       "title": "Ingeniero(a) Agrónomo(a) o Técnico(a) Agrónomo(a) para relatorías, asesorías y proyectos",
