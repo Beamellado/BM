@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_checked": "2026-09-30T18:18:14Z",
+  "last_checked": "2026-10-01T00:19:38Z",
   "region": "Región Metropolitana, Chile",
   "keywords": [
     "agrícola",
@@ -20,6 +20,26 @@
   ],
   "link_policy": "Los enlaces guardados en 'search_url' apuntan a la página de búsqueda/listado del portal (filtrada por cargo o palabra clave), NO al aviso individual. Indeed, Laborum, Computrabajo, LinkedIn y Chiletrabajos bloquean el acceso automatizado (HTTP 403) incluso a avisos individuales indexados por buscadores, por lo que no es posible garantizar un permalink estable y funcional. Al abrir el enlace, busca el cargo/empresa indicados en el listado resultante; si ya no aparece, es probable que el aviso haya sido retirado o repaginado.",
   "jobs": [
+    {
+      "id": "manpower-tecnico-agricola-ingeniero-agronomo-agropecuario-buin",
+      "title": "Técnico Agrícola, Ingeniero Agrónomo o Agropecuario ($1.300.000 mensual)",
+      "company": "Manpower Chile",
+      "location": "Buin, Región Metropolitana",
+      "type": "empleo",
+      "source": "Búsqueda web (agregador — Computrabajo)",
+      "search_url": "https://cl.computrabajo.com/trabajo-de-ingeniero-agronomo",
+      "first_seen": "2026-10-01"
+    },
+    {
+      "id": "manpower-asistente-produccion-agricola-semillera-curacavi",
+      "title": "Asistente de Producción Agrícola — empresa semillera (experiencia práctica en producción de semillas)",
+      "company": "ManpowerGroup Chile (para cliente del rubro semillero)",
+      "location": "Curacaví, Región Metropolitana",
+      "type": "empleo",
+      "source": "Búsqueda web (agregador)",
+      "search_url": "https://cl.jooble.org/trabajo-agricola/Curacav%C3%AD",
+      "first_seen": "2026-10-01"
+    },
     {
       "id": "viverro-lelinatu-asesor-agricola-forestal-providencia",
       "title": "Asesor(a) Agrícola y Forestal (3 vacantes) — vivero: sustrato, embolsado, propagación, riego tecnificado, invernadero, 1+ año exp.",
