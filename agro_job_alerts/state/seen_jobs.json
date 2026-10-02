@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_checked": "2026-10-02T00:18:27Z",
+  "last_checked": "2026-10-02T06:19:42Z",
   "region": "Región Metropolitana, Chile",
   "keywords": [
     "agrícola",
@@ -20,6 +20,16 @@
   ],
   "link_policy": "Los enlaces guardados en 'search_url' apuntan a la página de búsqueda/listado del portal (filtrada por cargo o palabra clave), NO al aviso individual. Indeed, Laborum, Computrabajo, LinkedIn y Chiletrabajos bloquean el acceso automatizado (HTTP 403) incluso a avisos individuales indexados por buscadores, por lo que no es posible garantizar un permalink estable y funcional. Al abrir el enlace, busca el cargo/empresa indicados en el listado resultante; si ya no aparece, es probable que el aviso haya sido retirado o repaginado.",
   "jobs": [
+    {
+      "id": "errazuriz-consultores-ingeniero-civil-gestion-operaciones-agricolas",
+      "title": "Ingeniero(a) Civil — Control de Gestión y Operaciones Agrícolas (oficina y terreno en huertos frutícolas, reportes, indicadores, control presupuestario)",
+      "company": "Errázuriz Consultores",
+      "location": "Sector sur de la Región Metropolitana",
+      "type": "empleo",
+      "source": "Búsqueda web (agregador)",
+      "search_url": "https://cl.indeed.com/q-ingeniero-agr%C3%ADcola-empleos.html",
+      "first_seen": "2026-10-02"
+    },
     {
       "id": "aguas-andinas-practica-agronomia-areas-verdes-santiago",
       "title": "Práctica — Agronomía (revisión y optimización de metodologías de mantención de áreas verdes)",
