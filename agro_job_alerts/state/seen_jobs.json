@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_checked": "2026-10-01T18:18:10Z",
+  "last_checked": "2026-10-02T00:18:27Z",
   "region": "Región Metropolitana, Chile",
   "keywords": [
     "agrícola",
@@ -20,6 +20,16 @@
   ],
   "link_policy": "Los enlaces guardados en 'search_url' apuntan a la página de búsqueda/listado del portal (filtrada por cargo o palabra clave), NO al aviso individual. Indeed, Laborum, Computrabajo, LinkedIn y Chiletrabajos bloquean el acceso automatizado (HTTP 403) incluso a avisos individuales indexados por buscadores, por lo que no es posible garantizar un permalink estable y funcional. Al abrir el enlace, busca el cargo/empresa indicados en el listado resultante; si ya no aparece, es probable que el aviso haya sido retirado o repaginado.",
   "jobs": [
+    {
+      "id": "aguas-andinas-practica-agronomia-areas-verdes-santiago",
+      "title": "Práctica — Agronomía (revisión y optimización de metodologías de mantención de áreas verdes)",
+      "company": "Aguas Andinas",
+      "location": "Santiago, Región Metropolitana",
+      "type": "práctica",
+      "source": "Emplea Duoc UC",
+      "search_url": "https://duoclaboral.cl/trabajar-en-aguas-andinas/trabajos/practica-agronomia/661678",
+      "first_seen": "2026-10-02"
+    },
     {
       "id": "manpower-tecnico-agricola-ingeniero-agronomo-agropecuario-buin",
       "title": "Técnico Agrícola, Ingeniero Agrónomo o Agropecuario ($1.300.000 mensual)",
