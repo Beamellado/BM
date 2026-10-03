@@ -1,0 +1,18 @@
+{
+  "descripcion": "Búsqueda diaria de prácticas profesionales en medio ambiente/sostenibilidad para Beatriz Mellado. Registro de ofertas ya mostradas y respuestas.",
+  "ultima_revision": "2026-10-03",
+  "excluir_empresas": ["Copec", "Arcoprime (grupo Copec)", "Ideal", "ISF Chile", "SMA", "Worley", "CIC"],
+  "mostradas": [
+    {"id": "colegio-jhz-practica-medio-ambiente", "cargo": "Práctica Medio Ambiente", "empresa": "Colegio (correo jhz.cl, nombre no informado)", "url": "https://www.chiletrabajos.cl/trabajo/practica-medio-ambiente-3894534", "cierre": "2026-11-20", "mostrada": "2026-10-03", "respuesta": null},
+    {"id": "zoron-practica-medio-ambiente", "cargo": "Práctica profesional en medio ambiente", "empresa": "ZORON EIRL", "url": "https://duoclaboral.cl/trabajar-en-zoron-eirl/trabajos/practica-profesional-en-medio-ambiente/925949", "cierre": "no informado", "mostrada": "2026-10-03", "respuesta": null},
+    {"id": "eecol-practicante-medio-ambiente", "cargo": "Practicante de Medio Ambiente", "empresa": "EECOL Electric", "url": "https://www.chiletrabajos.cl/trabajo/practicante-de-medio-ambiente-3855313", "cierre": "no informado", "mostrada": "2026-10-03", "respuesta": null},
+    {"id": "soprole-practica-medio-ambiente", "cargo": "Práctica Profesional en Medio Ambiente", "empresa": "Soprole", "url": "https://firstjob.me/oferta/25322/practica-profesional-en-medio-ambiente", "cierre": "no informado", "mostrada": "2026-10-03", "respuesta": null}
+  ],
+  "descartadas": [
+    {"empresa": "CIC S.A.", "motivo": "excluida (ya postuló)"},
+    {"empresa": "Arcoprime", "motivo": "postulación cerrada; grupo Copec"},
+    {"empresa": "Empresas SB (Salcobrand)", "motivo": "solo Química y Farmacia"},
+    {"empresa": "Corporación Motum", "motivo": "híbrida en Concepción"},
+    {"empresa": "Ministerio de Energía (Prácticas para Chile)", "motivo": "convocatorias finalizadas"}
+  ]
+}
