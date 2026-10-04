@@ -1,6 +1,6 @@
 {
   "descripcion": "Búsqueda diaria de prácticas profesionales en medio ambiente/sostenibilidad para Beatriz Mellado. Registro de ofertas ya mostradas y respuestas.",
-  "ultima_revision": "2026-10-03",
+  "ultima_revision": "2026-10-04",
   "excluir_empresas": [
     "Copec",
     "Arcoprime (grupo Copec)",
@@ -64,6 +64,24 @@
       "cierre": "no informado",
       "mostrada": "2026-10-03",
       "respuesta": null
+    },
+    {
+      "id": "nueva-flesan-practica-ing-medio-ambiente",
+      "cargo": "Práctica Profesional Ingeniería Medio Ambiente",
+      "empresa": "Nueva Flesan Gestión Ltda.",
+      "url": "https://cl.indeed.com/Empleos-de-Pr%C3%A1cticas-ingeniero-medio-ambiente",
+      "cierre": "2026-10-20",
+      "mostrada": "2026-10-04",
+      "respuesta": null
+    },
+    {
+      "id": "cea-practica-profesional",
+      "cargo": "Práctica profesional",
+      "empresa": "CEA – Centro de Ecología Aplicada S.A.",
+      "url": "https://cl.trabajo.org/oferta-4112-81fe46aab25fa3bea4015b5e7d0cf0d7",
+      "cierre": "no informado",
+      "mostrada": "2026-10-04",
+      "respuesta": null
     }
   ],
   "descartadas": [
@@ -86,6 +104,10 @@
     {
       "empresa": "Ministerio de Energía (Prácticas para Chile)",
       "motivo": "convocatorias finalizadas"
+    },
+    {
+      "empresa": "WOM",
+      "motivo": "práctica de energía solo para ingenierías eléctrica/electrónica/industrial/civil"
     }
   ]
 }
