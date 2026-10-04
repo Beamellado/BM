@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_checked": "2026-10-03T18:17:51Z",
+  "last_checked": "2026-10-04T00:18:59Z",
   "region": "Región Metropolitana, Chile",
   "keywords": [
     "agrícola",
@@ -20,6 +20,46 @@
   ],
   "link_policy": "Los enlaces guardados en 'search_url' apuntan a la página de búsqueda/listado del portal (filtrada por cargo o palabra clave), NO al aviso individual. Indeed, Laborum, Computrabajo, LinkedIn y Chiletrabajos bloquean el acceso automatizado (HTTP 403) incluso a avisos individuales indexados por buscadores, por lo que no es posible garantizar un permalink estable y funcional. Al abrir el enlace, busca el cargo/empresa indicados en el listado resultante; si ya no aparece, es probable que el aviso haya sido retirado o repaginado.",
   "jobs": [
+    {
+      "id": "frutexsa-tecnico-agricola-buin",
+      "title": "Técnico(a) Agrícola",
+      "company": "Frutexsa",
+      "location": "Buin, Región Metropolitana",
+      "type": "empleo",
+      "source": "Búsqueda web (agregador — Computrabajo)",
+      "search_url": "https://cl.computrabajo.com/trabajo-de-tecnico-agricola",
+      "first_seen": "2026-10-04"
+    },
+    {
+      "id": "xinerlink-tecnico-agricola-quimico-industrial-penaflor",
+      "title": "Técnico Agrícola o Técnico Químico Industrial — Control de Procesos Productivos ($670.000 mensual)",
+      "company": "XinerLink (empresa de gestión de capital humano)",
+      "location": "Peñaflor, Región Metropolitana",
+      "type": "empleo",
+      "source": "Búsqueda web (agregador)",
+      "search_url": "https://www.chiletrabajos.cl/trabajo/operarios-pe-aflor-670000-3811032",
+      "first_seen": "2026-10-04"
+    },
+    {
+      "id": "agrocastilla-supervisor-agricola-uva-de-mesa",
+      "title": "Supervisor(a) Agrícola — Uva de Mesa (coordinación de cuadrillas, cumplimiento de programas de trabajo, $1.000.000-$1.300.000)",
+      "company": "Agrocastilla SpA",
+      "location": "Santiago, Región Metropolitana",
+      "type": "empleo",
+      "source": "Búsqueda web (agregador — Indeed)",
+      "search_url": "https://cl.indeed.com/q-ingeniero-agricola-empleos.html",
+      "first_seen": "2026-10-04"
+    },
+    {
+      "id": "progestion-ingeniero-agronomo-agricola-operaciones-terreno-padre-hurtado",
+      "title": "Ingeniero(a) Agrónomo(a) o Ingeniero(a) Agrícola — Operaciones en Terreno",
+      "company": "Progestion Chile",
+      "location": "Padre Hurtado, Región Metropolitana",
+      "type": "empleo",
+      "source": "Búsqueda web (agregador — Computrabajo)",
+      "search_url": "https://cl.computrabajo.com/trabajo-de-agronomo-en-terreno",
+      "first_seen": "2026-10-04"
+    },
     {
       "id": "errazuriz-consultores-ingeniero-civil-gestion-operaciones-agricolas",
       "title": "Ingeniero(a) Civil — Control de Gestión y Operaciones Agrícolas (oficina y terreno en huertos frutícolas, reportes, indicadores, control presupuestario)",
